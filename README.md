@@ -17,3 +17,6 @@ To do this, I used Java 8 + [ASM](https://asm.ow2.io/) following the steps below
 ```
 
 You can check all the code used in the file [SpigotMethodCallTree](./SpigotMethodCallTree.java). Yes, I know the code is horrible, but I wasn't focused on performance or anything like that. I was just focused on do it!
+
+# Extra
+I used Paper 1.16.1 to extract the invocation tree
