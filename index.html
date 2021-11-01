@@ -30,11 +30,11 @@
     }
 
     .collapsible .collapsible .collapsible {
-      background-color: #ccc  !important;
-      padding: 18px 30px  !important;
+      background-color: #ccc !important;
+      padding: 18px 30px !important;
     }
 
-    #root > div:not(:last-child) {
+    #root>div:not(:last-child) {
       border-bottom: solid 1px #444;
     }
 
@@ -124,7 +124,7 @@
         }
       }
 
-      request.open('GET', `./tree/${this.innerHTML}`, true);
+      request.open('GET', `https://raw.githubusercontent.com/DavidNery/SpigotMethodCallTree/main/tree/${this.innerHTML}`, true);
       request.send();
     }
   </script>
@@ -135,25 +135,35 @@
     const request = new XMLHttpRequest();
     request.onreadystatechange = function () {
       if (this.readyState === 4 && this.status === 200) {
-        const response = Array.prototype.slice.call(
-          this.responseXML.getElementsByTagName('a'), 5
-        );
+        for (const path of JSON.parse(this.responseText).tree) {
+          if (path.path === 'tree') {
+            const classesRequest = new XMLHttpRequest();
+            classesRequest.onreadystatechange = function () {
+              if (this.readyState === 4 && this.status === 200) {
+                const response = JSON.parse(this.responseText).tree;
 
-        for (const clazz of response) {
-          const classDiv = document.createElement('div');
-          const classCollapsible = document.createElement('div');
-          classCollapsible.classList = ['collapsible'];
-          classCollapsible.innerHTML = clazz.getAttribute('href');
-          classCollapsible.addEventListener('click', collapsibleFunc);
+                for (const clazz of response) {
+                  const classDiv = document.createElement('div');
+                  const classCollapsible = document.createElement('div');
+                  classCollapsible.classList = ['collapsible'];
+                  classCollapsible.innerHTML = clazz.path;
+                  classCollapsible.addEventListener('click', collapsibleFunc);
 
-          classDiv.appendChild(classCollapsible);
-          root.appendChild(classDiv);
+                  classDiv.appendChild(classCollapsible);
+                  root.appendChild(classDiv);
+                }
+              }
+            }
+
+            classesRequest.open('GET', path.url, true);
+            classesRequest.send();
+            break;
+          }
         }
       }
     }
 
-    request.responseType = 'document';
-    request.open('GET', './tree', true);
+    request.open('GET', 'https://api.github.com/repos/DavidNery/SpigotMethodCallTree/git/trees/main', true);
     request.send();
   </script>
 
