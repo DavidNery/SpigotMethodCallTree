@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer$6":["<clinit>()"]},"<init>(java.lang.String, int)":{"org.bukkit.BanList$Type":["<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["getBanList()"],"org.bukkit.craftbukkit.v1_16_R1.CraftServer$6":["<clinit>()","<clinit>()"]}}

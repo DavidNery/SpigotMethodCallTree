@@ -1,0 +1,1 @@
+{"createOctaves(java.util.Random, int)":{"org.bukkit.util.noise.PerlinOctaveGenerator":["<init>(java.util.Random, int)"]},"<init>(java.util.Random, int)":{"org.bukkit.util.noise.PerlinOctaveGenerator":["<init>(org.bukkit.World, int)","<init>(long, int)"]}}

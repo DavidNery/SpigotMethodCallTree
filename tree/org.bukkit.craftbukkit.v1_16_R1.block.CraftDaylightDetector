@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.block.Block)":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftBlock":["getState0()"]},"<init>(org.bukkit.Material, net.minecraft.server.v1_16_R1.TileEntityLightDetector)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftMetaBlockState":["getBlockState()"]}}

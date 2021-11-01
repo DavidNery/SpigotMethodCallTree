@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityEvoker)":{"net.minecraft.server.v1_16_R1.EntityEvoker$c":["<init>(net.minecraft.server.v1_16_R1.EntityEvoker, net.minecraft.server.v1_16_R1.EntityEvoker$1)"]},"<init>(net.minecraft.server.v1_16_R1.EntityEvoker, net.minecraft.server.v1_16_R1.EntityEvoker$1)":{"net.minecraft.server.v1_16_R1.EntityEvoker":["initPathfinder()"]}}

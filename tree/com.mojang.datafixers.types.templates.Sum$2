@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.types.templates.Sum, com.mojang.datafixers.FamilyOptic, int, com.google.common.reflect.TypeToken, com.mojang.datafixers.FamilyOptic)":{"com.mojang.datafixers.types.templates.Sum":["cap(com.mojang.datafixers.FamilyOptic, com.mojang.datafixers.FamilyOptic, int)"]}}

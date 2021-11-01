@@ -1,0 +1,1 @@
+{"valueOf(java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftStructureBlock":["getUsageMode()"]},"name()":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftStructureBlock":["setUsageMode()"]},"<init>(java.lang.String, int)":{"org.bukkit.block.structure.UsageMode":["<clinit>()","<clinit>()","<clinit>()","<clinit>()"]}}

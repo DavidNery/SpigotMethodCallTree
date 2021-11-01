@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityRaider)":{"net.minecraft.server.v1_16_R1.EntityRaider":["initPathfinder()"]},"a(net.minecraft.server.v1_16_R1.Raid)":{"net.minecraft.server.v1_16_R1.PathfinderGoalRaid":["e()"]},"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.PathfinderGoalRaid":["<init>(net.minecraft.server.v1_16_R1.EntityRaider)"]}}

@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftRabbit$CraftMagicMapping":["<clinit>()","<clinit>()"]},"<init>(java.lang.String, int)":{"org.bukkit.entity.Rabbit$Type":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftRabbit$CraftMagicMapping":["set()","toMagic()"]}}

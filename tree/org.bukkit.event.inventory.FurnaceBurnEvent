@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.block.Block, org.bukkit.inventory.ItemStack, int)":{"net.minecraft.server.v1_16_R1.TileEntityFurnace":["tick()"]},"isBurning()":{"net.minecraft.server.v1_16_R1.TileEntityFurnace":["tick()"]},"getBurnTime()":{"net.minecraft.server.v1_16_R1.TileEntityFurnace":["tick()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.TileEntityFurnace":["tick()"]}}

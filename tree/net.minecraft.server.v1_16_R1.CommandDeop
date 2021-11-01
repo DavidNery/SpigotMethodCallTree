@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.CommandListenerWrapper, java.util.Collection)":{"net.minecraft.server.v1_16_R1.CommandDeop":["a(com.mojang.brigadier.context.CommandContext)"]},"a(com.mojang.brigadier.CommandDispatcher)":{"net.minecraft.server.v1_16_R1.CommandDispatcher":["<init>(net.minecraft.server.v1_16_R1.CommandDispatcher$ServerType)"]}}

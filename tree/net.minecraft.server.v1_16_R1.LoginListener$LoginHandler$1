@@ -1,0 +1,1 @@
+{"evaluate()":{"net.minecraft.server.v1_16_R1.LoginListener$LoginHandler$1":["evaluate()"]},"<init>(net.minecraft.server.v1_16_R1.LoginListener$LoginHandler, org.bukkit.craftbukkit.v1_16_R1.CraftServer, org.bukkit.event.player.PlayerPreLoginEvent)":{"net.minecraft.server.v1_16_R1.LoginListener$LoginHandler":["fireEvents()"]}}

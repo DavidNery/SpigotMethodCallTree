@@ -1,0 +1,1 @@
+{"<init>()":{"org.bukkit.conversations.ConversationFactory$NotPlayerMessagePrompt":["<init>()"]},"getNextPrompt(org.bukkit.conversations.ConversationContext)":{"org.bukkit.conversations.MessagePrompt":["acceptInput(org.bukkit.conversations.ConversationContext, java.lang.String)"]}}

@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Vehicle, org.bukkit.block.Block)":{"net.minecraft.server.v1_16_R1.Entity":["move(net.minecraft.server.v1_16_R1.EnumMoveType, net.minecraft.server.v1_16_R1.Vec3D)"]}}

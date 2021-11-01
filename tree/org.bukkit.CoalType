@@ -1,0 +1,1 @@
+{"getByData(byte)":{"org.bukkit.material.Coal":["getType()"]},"values()":{"org.bukkit.CoalType":["<clinit>()"]},"<init>(java.lang.String, int, int)":{"org.bukkit.CoalType":["<clinit>()","<clinit>()"]},"getData()":{"org.bukkit.material.Coal":["setType()"]}}

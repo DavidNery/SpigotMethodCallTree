@@ -1,0 +1,1 @@
+{"valueOf(java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftStructureBlock":["getRotation()"]},"name()":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftStructureBlock":["setRotation()"]},"<init>(java.lang.String, int)":{"org.bukkit.block.structure.StructureRotation":["<clinit>()","<clinit>()","<clinit>()","<clinit>()"]}}

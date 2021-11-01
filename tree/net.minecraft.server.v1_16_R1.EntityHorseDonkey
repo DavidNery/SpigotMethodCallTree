@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.EntityAgeable, net.minecraft.server.v1_16_R1.EntityHorseAbstract)":{"net.minecraft.server.v1_16_R1.EntityHorseDonkey":["createChild(net.minecraft.server.v1_16_R1.EntityAgeable)"]},"fp()":{"net.minecraft.server.v1_16_R1.EntityHorseDonkey":["mate()"]}}

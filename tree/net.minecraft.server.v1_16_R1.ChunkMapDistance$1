@@ -1,0 +1,1 @@
+{"add(net.minecraft.server.v1_16_R1.PlayerChunk)":{"net.minecraft.server.v1_16_R1.ChunkMapDistance$1":["add(java.lang.Object)"]},"<init>(net.minecraft.server.v1_16_R1.ChunkMapDistance)":{"net.minecraft.server.v1_16_R1.ChunkMapDistance":["<init>(java.util.concurrent.Executor, java.util.concurrent.Executor)"]}}

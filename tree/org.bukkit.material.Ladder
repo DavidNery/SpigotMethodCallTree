@@ -1,0 +1,1 @@
+{"setData(byte)":{"org.bukkit.material.Ladder":["setFacingDirection(org.bukkit.block.BlockFace)"]},"getData()":{"org.bukkit.material.Ladder":["getAttachedFace()"]},"clone()":{"org.bukkit.material.Ladder":["clone()","clone()","clone()"]}}

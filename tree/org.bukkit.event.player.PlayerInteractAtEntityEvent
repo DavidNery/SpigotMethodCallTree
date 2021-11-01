@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, org.bukkit.entity.Entity, org.bukkit.util.Vector, org.bukkit.inventory.EquipmentSlot)":{"org.bukkit.event.player.PlayerInteractAtEntityEvent":["<init>(org.bukkit.entity.Player, org.bukkit.entity.Entity, org.bukkit.util.Vector)"],"net.minecraft.server.v1_16_R1.PlayerConnection":["a(net.minecraft.server.v1_16_R1.PacketPlayInUseEntity)"]}}

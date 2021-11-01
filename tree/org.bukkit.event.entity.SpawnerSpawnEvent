@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Entity, org.bukkit.block.CreatureSpawner)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callSpawnerSpawnEvent(net.minecraft.server.v1_16_R1.Entity, net.minecraft.server.v1_16_R1.BlockPosition)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.MobSpawnerAbstract":["c()"]}}

@@ -1,0 +1,1 @@
+{"create(int)":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["createWorld(org.bukkit.WorldCreator)"],"net.minecraft.server.v1_16_R1.MinecraftServer":["loadWorld(java.lang.String)","loadWorld(java.lang.String)"]}}

@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityLiving, net.minecraft.server.v1_16_R1.DamageSource)":{"net.minecraft.server.v1_16_R1.EntityLiving":["damageEntity0(net.minecraft.server.v1_16_R1.DamageSource, float)"]},"apply(java.lang.Double)":{"net.minecraft.server.v1_16_R1.EntityLiving$3":["apply(java.lang.Object)"]}}

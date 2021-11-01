@@ -1,0 +1,1 @@
+{"<init>(java.lang.Throwable)":{"net.minecraft.server.v1_16_R1.PacketEncoder":["encode(io.netty.channel.ChannelHandlerContext, net.minecraft.server.v1_16_R1.Packet, io.netty.buffer.ByteBuf)"]}}

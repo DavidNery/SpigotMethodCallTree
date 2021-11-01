@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftEntity":["getPose()"],"net.minecraft.server.v1_16_R1.Entity":["setPose()"]},"<init>(java.lang.String, int)":{"org.bukkit.entity.Pose":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]}}

@@ -1,0 +1,1 @@
+{"getValues()":{"org.bukkit.inventory.RecipeChoice$MaterialChoice":["<init>()"]}}

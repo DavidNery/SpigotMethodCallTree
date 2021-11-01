@@ -1,0 +1,1 @@
+{"getPickupStatus()":{"org.bukkit.entity.AbstractArrow":["getPickupRule()"]},"setPickupStatus(org.bukkit.entity.AbstractArrow$PickupStatus)":{"org.bukkit.entity.AbstractArrow":["setPickupRule(org.bukkit.entity.AbstractArrow$PickupRule)"]}}

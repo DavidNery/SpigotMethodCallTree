@@ -1,0 +1,1 @@
+{"isSaveChunk()":{"net.minecraft.server.v1_16_R1.Chunk":["unloadCallback()"]},"<init>(org.bukkit.Chunk, boolean)":{"net.minecraft.server.v1_16_R1.Chunk":["unloadCallback()"],"org.bukkit.event.world.ChunkUnloadEvent":["<init>(org.bukkit.Chunk)"]}}

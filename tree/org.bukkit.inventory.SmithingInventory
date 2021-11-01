@@ -1,0 +1,1 @@
+{"setItem(int, org.bukkit.inventory.ItemStack)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callPrepareSmithingEvent(org.bukkit.inventory.InventoryView, net.minecraft.server.v1_16_R1.ItemStack)"]}}

@@ -1,0 +1,1 @@
+{"setPixel(int, int, byte)":{"org.bukkit.craftbukkit.v1_16_R1.map.CraftMapRenderer":["render(org.bukkit.map.MapView, org.bukkit.map.MapCanvas, org.bukkit.entity.Player)"]},"getCursors()":{"org.bukkit.craftbukkit.v1_16_R1.map.CraftMapRenderer":["render()"]}}

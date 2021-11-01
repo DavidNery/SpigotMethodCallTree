@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Entity, org.bukkit.entity.Player)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callPlayerUnleashEntityEvent(net.minecraft.server.v1_16_R1.EntityInsentient, net.minecraft.server.v1_16_R1.EntityHuman)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityInsentient":["a()"],"net.minecraft.server.v1_16_R1.EntityLeash":["a()"]}}

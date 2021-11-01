@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.NibbleArray[], net.minecraft.server.v1_16_R1.NibbleArray[], net.minecraft.server.v1_16_R1.NBTTagList, net.minecraft.server.v1_16_R1.NBTTagList, long)":{"net.minecraft.server.v1_16_R1.ChunkRegionLoader":["getAsyncSaveData(net.minecraft.server.v1_16_R1.WorldServer, net.minecraft.server.v1_16_R1.IChunkAccess)"]}}

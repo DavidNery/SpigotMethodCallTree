@@ -1,0 +1,1 @@
+{"getResult()":{"net.minecraft.server.v1_16_R1.TileEntityFurnace":["burn()"]},"<init>(org.bukkit.block.Block, org.bukkit.inventory.ItemStack, org.bukkit.inventory.ItemStack)":{"net.minecraft.server.v1_16_R1.TileEntityFurnace":["burn(net.minecraft.server.v1_16_R1.IRecipe)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.TileEntityFurnace":["burn()"]}}

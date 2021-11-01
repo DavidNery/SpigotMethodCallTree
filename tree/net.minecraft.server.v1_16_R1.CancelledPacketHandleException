@@ -1,0 +1,1 @@
+{"<init>()":{"net.minecraft.server.v1_16_R1.CancelledPacketHandleException":["<clinit>()"]},"setStackTrace(java.lang.StackTraceElement[])":{"net.minecraft.server.v1_16_R1.CancelledPacketHandleException":["<init>()","fillInStackTrace()"]}}

@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.IMinecraftServer)":{"net.minecraft.server.v1_16_R1.DedicatedServer":["init()"]},"a()":{"net.minecraft.server.v1_16_R1.DedicatedServer":["init()"]},"d()":{"net.minecraft.server.v1_16_R1.RemoteControlListener":["run()","run()"]},"a(java.net.ServerSocket)":{"net.minecraft.server.v1_16_R1.RemoteControlListener":["run()","run()","b()"]}}

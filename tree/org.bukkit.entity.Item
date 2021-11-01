@@ -1,0 +1,1 @@
+{"getServer()":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callItemSpawnEvent()","callItemDespawnEvent()"]},"getItemStack()":{"net.minecraft.server.v1_16_R1.EntityHuman":["a()","a()","a()","a()"]},"getLocation()":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callItemDespawnEvent()"]}}

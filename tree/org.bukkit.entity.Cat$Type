@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftCat":["getCatType()"]},"<init>(java.lang.String, int)":{"org.bukkit.entity.Cat$Type":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftCat":["setCatType()"]}}

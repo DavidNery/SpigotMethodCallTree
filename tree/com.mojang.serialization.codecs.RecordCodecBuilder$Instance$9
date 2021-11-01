@@ -1,0 +1,1 @@
+{"<init>(com.mojang.serialization.codecs.RecordCodecBuilder$Instance, com.mojang.serialization.codecs.RecordCodecBuilder, java.lang.Object, java.util.function.Function)":{"com.mojang.serialization.codecs.RecordCodecBuilder$Instance":["lambda$map$9(com.mojang.serialization.codecs.RecordCodecBuilder, java.util.function.Function, java.lang.Object)"]}}

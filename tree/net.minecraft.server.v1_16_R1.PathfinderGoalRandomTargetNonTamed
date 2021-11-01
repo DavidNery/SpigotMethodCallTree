@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityTameableAnimal, java.lang.Class, boolean, java.util.function.Predicate)":{"net.minecraft.server.v1_16_R1.EntityWolf":["initPathfinder()","initPathfinder()"],"net.minecraft.server.v1_16_R1.EntityCat":["initPathfinder()","initPathfinder()"]}}

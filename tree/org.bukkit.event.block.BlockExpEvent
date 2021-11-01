@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.block.Block, int)":{"org.bukkit.event.inventory.FurnaceExtractEvent":["<init>(org.bukkit.entity.Player, org.bukkit.block.Block, org.bukkit.Material, int, int)"],"org.bukkit.event.block.BlockBreakEvent":["<init>(org.bukkit.block.Block, org.bukkit.entity.Player)"]}}

@@ -1,0 +1,1 @@
+{"a()":{"net.minecraft.server.v1_16_R1.MinecraftServer":["canExecute()"]},"<init>(int, java.lang.Runnable)":{"net.minecraft.server.v1_16_R1.MinecraftServer":["postToMainThread(java.lang.Runnable)"]}}

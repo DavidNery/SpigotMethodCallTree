@@ -1,0 +1,1 @@
+{"<init>()":{"com.mojang.serialization.Codec":["<clinit>()"]},"write(com.mojang.serialization.DynamicOps, java.lang.Boolean)":{"com.mojang.serialization.Codec$9":["write(com.mojang.serialization.DynamicOps, java.lang.Object)"]}}

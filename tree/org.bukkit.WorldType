@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.WorldType":["<clinit>()"]},"getName()":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["createWorld()"]},"<init>(java.lang.String, int, java.lang.String)":{"org.bukkit.WorldType":["<clinit>()","<clinit>()","<clinit>()","<clinit>()"]}}

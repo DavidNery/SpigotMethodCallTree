@@ -1,0 +1,1 @@
+{"a(com.mojang.datafixers.OpticFinder, com.mojang.datafixers.Typed)":{"net.minecraft.server.v1_16_R1.DataConverterVillagerTrade":["b(com.mojang.datafixers.OpticFinder, com.mojang.datafixers.Typed)"]},"<init>(com.mojang.datafixers.schemas.Schema, boolean)":{"net.minecraft.server.v1_16_R1.DataConverterRegistry":["a(com.mojang.datafixers.DataFixerBuilder)"]}}

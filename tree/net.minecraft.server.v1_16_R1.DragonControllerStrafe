@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.EntityLiving)":{"net.minecraft.server.v1_16_R1.DragonControllerHold":["a(net.minecraft.server.v1_16_R1.EntityHuman)"]},"j()":{"net.minecraft.server.v1_16_R1.DragonControllerStrafe":["c()"]},"k()":{"net.minecraft.server.v1_16_R1.DragonControllerStrafe":["j()","a()"]}}

@@ -1,0 +1,1 @@
+{"getFormatter()":{"org.bukkit.craftbukkit.v1_16_R1.util.ForwardLogHandler":["publish()"]},"<init>()":{"net.minecraft.server.v1_16_R1.DedicatedServer":["init()"]},"getLogger(java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.util.ForwardLogHandler":["publish(java.util.logging.LogRecord)"]}}

@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.map.MapView)":{"net.minecraft.server.v1_16_R1.ItemWorldMap":["a(net.minecraft.server.v1_16_R1.ItemStack, net.minecraft.server.v1_16_R1.World, int, int, int, boolean, boolean, net.minecraft.server.v1_16_R1.ResourceKey)"],"net.minecraft.server.v1_16_R1.WorldServer":["lambda$a$12(java.lang.String)"]}}

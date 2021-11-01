@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityRaider, java.lang.Class, int, boolean, boolean, java.util.function.Predicate)":{"net.minecraft.server.v1_16_R1.EntityWitch":["initPathfinder()"]},"a(boolean)":{"net.minecraft.server.v1_16_R1.EntityWitch":["movementTick()","movementTick()"]}}

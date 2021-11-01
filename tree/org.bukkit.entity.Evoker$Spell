@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftEvoker":["getCurrentSpell()"]},"<init>(java.lang.String, int)":{"org.bukkit.entity.Evoker$Spell":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftEvoker":["setCurrentSpell()"]}}

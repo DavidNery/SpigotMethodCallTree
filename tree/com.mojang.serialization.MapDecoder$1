@@ -1,0 +1,1 @@
+{"<init>(com.mojang.serialization.MapDecoder, java.util.List, com.mojang.serialization.KeyCompressor)":{"com.mojang.serialization.MapDecoder":["compressedDecode(com.mojang.serialization.DynamicOps, java.lang.Object)"]}}

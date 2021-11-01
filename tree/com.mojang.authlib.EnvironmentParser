@@ -1,0 +1,1 @@
+{"fromHostNames()":{"com.mojang.authlib.EnvironmentParser":["getEnvironmentFromProperties()"]},"getEnvironmentFromProperties()":{"com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService":["determineEnvironment()"]}}

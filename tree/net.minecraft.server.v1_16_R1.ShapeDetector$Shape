@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.Vec3D, net.minecraft.server.v1_16_R1.Vec3D, int)":{"net.minecraft.server.v1_16_R1.ShapeDetector$ShapeDetectorCollection":["a(net.minecraft.server.v1_16_R1.EnumDirection, net.minecraft.server.v1_16_R1.BlockPosition, double, net.minecraft.server.v1_16_R1.Vec3D, double)"]}}

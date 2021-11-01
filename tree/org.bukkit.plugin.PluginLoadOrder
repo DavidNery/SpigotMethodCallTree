@@ -1,0 +1,1 @@
+{"valueOf(java.lang.String)":{"org.bukkit.plugin.PluginDescriptionFile":["loadMap(java.util.Map)"]},"<init>(java.lang.String, int)":{"org.bukkit.plugin.PluginLoadOrder":["<clinit>()","<clinit>()"]},"toString()":{"org.bukkit.plugin.PluginDescriptionFile":["saveMap()"]}}

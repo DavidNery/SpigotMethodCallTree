@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityCat, double, int)":{"net.minecraft.server.v1_16_R1.EntityCat":["initPathfinder()"]},"k()":{"net.minecraft.server.v1_16_R1.PathfinderGoalCatSitOnBed":["e()"]},"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.PathfinderGoalCatSitOnBed":["<init>(net.minecraft.server.v1_16_R1.EntityCat, double, int)"]}}

@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.PacketListenerPlayOut)":{"net.minecraft.server.v1_16_R1.PacketPlayOutCollect":["a(net.minecraft.server.v1_16_R1.PacketListener)"]},"<init>(int, int, int)":{"net.minecraft.server.v1_16_R1.EntityLiving":["receive(net.minecraft.server.v1_16_R1.Entity, int)"]}}

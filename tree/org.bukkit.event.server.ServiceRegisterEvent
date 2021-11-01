@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.plugin.RegisteredServiceProvider)":{"org.bukkit.plugin.SimpleServicesManager":["register(java.lang.Class, java.lang.Object, org.bukkit.plugin.Plugin, org.bukkit.plugin.ServicePriority)"]}}

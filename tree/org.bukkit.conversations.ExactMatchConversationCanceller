@@ -1,0 +1,1 @@
+{"<init>(java.lang.String)":{"org.bukkit.conversations.ConversationFactory":["withEscapeSequence(java.lang.String)"],"org.bukkit.conversations.ExactMatchConversationCanceller":["clone()"]},"clone()":{"org.bukkit.conversations.ExactMatchConversationCanceller":["clone()"]}}

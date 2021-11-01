@@ -1,0 +1,1 @@
+{"getPrefix(org.bukkit.conversations.ConversationContext)":{"org.bukkit.conversations.Conversation":["acceptInput(java.lang.String)","outputNextPrompt()"]}}

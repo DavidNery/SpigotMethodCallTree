@@ -1,0 +1,1 @@
+{"toNMS(org.bukkit.HeightMap)":{"org.bukkit.craftbukkit.v1_16_R1.CraftWorld":["getHighestBlockYAt(int, int, org.bukkit.HeightMap)"]}}

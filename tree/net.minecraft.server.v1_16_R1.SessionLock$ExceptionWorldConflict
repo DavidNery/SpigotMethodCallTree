@@ -1,0 +1,1 @@
+{"<init>(java.nio.file.Path, java.lang.String)":{"net.minecraft.server.v1_16_R1.SessionLock$ExceptionWorldConflict":["a(java.nio.file.Path)"]},"a(java.nio.file.Path)":{"net.minecraft.server.v1_16_R1.SessionLock":["a(java.nio.file.Path)"]}}

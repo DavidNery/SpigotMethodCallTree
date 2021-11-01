@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.event.HandlerList":["<init>()"]},"<init>(java.lang.String, int, int)":{"org.bukkit.event.EventPriority":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"toString()":{"org.bukkit.event.HandlerList":["register()"]}}

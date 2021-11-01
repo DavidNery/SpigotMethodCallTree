@@ -1,0 +1,1 @@
+{"onTabComplete(org.bukkit.command.CommandSender, org.bukkit.command.Command, java.lang.String, java.lang.String[])":{"org.bukkit.command.PluginCommand":["tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[])","tabComplete(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[])"]}}

@@ -1,0 +1,1 @@
+{"sendMessage(java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.command.CraftRemoteConsoleCommandSender":["sendMessage(java.lang.String[])"]},"<init>(net.minecraft.server.v1_16_R1.RemoteControlCommandListener)":{"net.minecraft.server.v1_16_R1.DedicatedServer":["init()"]}}

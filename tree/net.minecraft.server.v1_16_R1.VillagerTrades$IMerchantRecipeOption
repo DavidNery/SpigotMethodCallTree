@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.Entity, java.util.Random)":{"net.minecraft.server.v1_16_R1.EntityVillagerAbstract":["a(net.minecraft.server.v1_16_R1.MerchantRecipeList, net.minecraft.server.v1_16_R1.VillagerTrades$IMerchantRecipeOption[], int)"],"net.minecraft.server.v1_16_R1.EntityVillagerTrader":["eW()"]}}

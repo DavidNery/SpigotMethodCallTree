@@ -1,0 +1,1 @@
+{"<init>()":{"com.mojang.datafixers.kinds.Monoid":["listMonoid()"]},"add(java.util.List, java.util.List)":{"com.mojang.datafixers.kinds.Monoid$1":["add(java.lang.Object, java.lang.Object)"]},"point()":{"com.mojang.datafixers.kinds.Monoid$1":["point()"]}}

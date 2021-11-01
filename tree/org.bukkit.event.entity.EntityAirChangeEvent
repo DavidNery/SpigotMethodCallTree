@@ -1,0 +1,1 @@
+{"getEntity()":{"net.minecraft.server.v1_16_R1.Entity":["setAirTicks()"]},"<init>(org.bukkit.entity.Entity, int)":{"net.minecraft.server.v1_16_R1.Entity":["setAirTicks(int)"]},"getAmount()":{"net.minecraft.server.v1_16_R1.Entity":["setAirTicks()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.Entity":["setAirTicks()"]}}

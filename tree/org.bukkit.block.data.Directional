@@ -1,0 +1,1 @@
+{"setFacing(org.bukkit.block.BlockFace)":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftSkull":["setRotation(org.bukkit.block.BlockFace)"]},"getFacing()":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftSkull":["getRotation()"]}}

@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, int, int)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callPlayerLevelChangeEvent(org.bukkit.entity.Player, int, int)"]}}

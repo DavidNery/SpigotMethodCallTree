@@ -1,0 +1,1 @@
+{"getCommonSuperclass(java.lang.Class, java.lang.Class)":{"org.bukkit.plugin.TimedRegisteredListener":["callEvent(org.bukkit.event.Event)"]}}

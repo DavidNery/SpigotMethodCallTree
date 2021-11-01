@@ -1,0 +1,1 @@
+{"b()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()","lambda$null$3()"]},"c()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()","a()","a()","a()"]},"a(net.minecraft.server.v1_16_R1.PacketListenerPlayIn)":{"net.minecraft.server.v1_16_R1.PacketPlayInTabComplete":["a(net.minecraft.server.v1_16_R1.PacketListener)"]}}

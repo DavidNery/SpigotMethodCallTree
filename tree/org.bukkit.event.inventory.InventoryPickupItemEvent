@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.inventory.Inventory, org.bukkit.entity.Item)":{"net.minecraft.server.v1_16_R1.TileEntityHopper":["a(net.minecraft.server.v1_16_R1.IInventory, net.minecraft.server.v1_16_R1.EntityItem)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.TileEntityHopper":["a()"]}}

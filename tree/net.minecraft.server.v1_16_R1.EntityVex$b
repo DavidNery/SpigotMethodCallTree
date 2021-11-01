@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityVex, net.minecraft.server.v1_16_R1.EntityCreature)":{"net.minecraft.server.v1_16_R1.EntityVex":["initPathfinder()"]},"a(net.minecraft.server.v1_16_R1.EntityLiving, net.minecraft.server.v1_16_R1.PathfinderTargetCondition)":{"net.minecraft.server.v1_16_R1.EntityVex$b":["a()"]}}

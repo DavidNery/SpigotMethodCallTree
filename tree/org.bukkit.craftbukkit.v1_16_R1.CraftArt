@@ -1,0 +1,1 @@
+{"NotchToBukkit(net.minecraft.server.v1_16_R1.Paintings)":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftPainting":["getArt()"]},"BukkitToNotch(org.bukkit.Art)":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftPainting":["setArt(org.bukkit.Art, boolean)"]}}

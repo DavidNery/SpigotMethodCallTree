@@ -1,0 +1,1 @@
+{"b()":{"org.bukkit.craftbukkit.v1_16_R1.util.DummyGeneratorAccess":["getBlockTickList()","getFluidTickList()"],"net.minecraft.server.v1_16_R1.Chunk":["<init>()","<init>()","B()","B()","B()","B()","a()","a()"]},"<init>()":{"net.minecraft.server.v1_16_R1.TickListEmpty":["<clinit>()"]}}

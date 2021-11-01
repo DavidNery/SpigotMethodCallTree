@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftMushroomCow":["getVariant()"]},"<init>(java.lang.String, int)":{"org.bukkit.entity.MushroomCow$Variant":["<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftMushroomCow":["setVariant()"]}}

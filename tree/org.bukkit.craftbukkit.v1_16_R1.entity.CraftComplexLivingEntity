@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.craftbukkit.v1_16_R1.CraftServer, net.minecraft.server.v1_16_R1.EntityInsentient)":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftEnderDragon":["<init>(org.bukkit.craftbukkit.v1_16_R1.CraftServer, net.minecraft.server.v1_16_R1.EntityEnderDragon)"]},"getHandle()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftComplexLivingEntity":["getHandle()","getHandle()"]}}

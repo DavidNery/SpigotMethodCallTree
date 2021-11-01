@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityHorseAbstract, double)":{"net.minecraft.server.v1_16_R1.EntityHorseAbstract":["initPathfinder()"],"net.minecraft.server.v1_16_R1.EntityLlama":["initPathfinder()"]},"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.PathfinderGoalTame":["<init>(net.minecraft.server.v1_16_R1.EntityHorseAbstract, double)"]}}

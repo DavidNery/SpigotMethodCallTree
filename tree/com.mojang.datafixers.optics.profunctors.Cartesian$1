@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.optics.profunctors.Cartesian)":{"com.mojang.datafixers.optics.profunctors.Cartesian":["toFP2()"]},"cap(com.mojang.datafixers.kinds.CartesianLike, com.mojang.datafixers.kinds.App2)":{"com.mojang.datafixers.optics.profunctors.Cartesian$1":["distribute(com.mojang.datafixers.kinds.App, com.mojang.datafixers.kinds.App2)"]}}

@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.World)":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["unloadWorld(org.bukkit.World, boolean)"]},"isCancelled()":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["unloadWorld()"]}}

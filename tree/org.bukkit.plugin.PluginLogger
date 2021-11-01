@@ -1,0 +1,1 @@
+{"setParent(java.util.logging.Logger)":{"org.bukkit.plugin.PluginLogger":["<init>(org.bukkit.plugin.Plugin)"]},"setLevel(java.util.logging.Level)":{"org.bukkit.plugin.PluginLogger":["<init>(org.bukkit.plugin.Plugin)"]}}

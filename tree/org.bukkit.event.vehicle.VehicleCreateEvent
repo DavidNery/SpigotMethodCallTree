@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Vehicle)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callVehicleCreateEvent(net.minecraft.server.v1_16_R1.Entity)"]}}

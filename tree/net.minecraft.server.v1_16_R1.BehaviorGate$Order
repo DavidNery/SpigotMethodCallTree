@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.WeightedList)":{"net.minecraft.server.v1_16_R1.BehaviorGate":["a(net.minecraft.server.v1_16_R1.WorldServer, net.minecraft.server.v1_16_R1.EntityLiving, long)"]},"<init>(java.lang.String, int, java.util.function.Consumer)":{"net.minecraft.server.v1_16_R1.BehaviorGate$Order":["<clinit>()","<clinit>()"]}}

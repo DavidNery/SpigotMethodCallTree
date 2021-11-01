@@ -1,0 +1,1 @@
+{"getEnum(java.lang.Class, java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftMetaItem":["buildModifiers(java.util.Map, org.bukkit.craftbukkit.v1_16_R1.inventory.CraftMetaItem$ItemMetaKey)"]}}

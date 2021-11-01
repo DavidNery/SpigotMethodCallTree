@@ -1,0 +1,1 @@
+{"<init>()":{"net.minecraft.server.v1_16_R1.ServerConnection$1":["initChannel()"]},"encode(io.netty.channel.ChannelHandlerContext, io.netty.buffer.ByteBuf, io.netty.buffer.ByteBuf)":{"net.minecraft.server.v1_16_R1.PacketPrepender":["encode(io.netty.channel.ChannelHandlerContext, java.lang.Object, io.netty.buffer.ByteBuf)"]}}

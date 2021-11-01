@@ -1,0 +1,1 @@
+{"getMerchant()":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftMerchantCustom":["<init>()","getMerchant()"],"org.bukkit.craftbukkit.v1_16_R1.entity.CraftHumanEntity":["openMerchant()","openMerchant()"]},"<init>(java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["createMerchant(java.lang.String)"]}}

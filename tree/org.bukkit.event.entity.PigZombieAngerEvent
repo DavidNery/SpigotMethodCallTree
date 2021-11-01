@@ -1,0 +1,1 @@
+{"getEntity()":{"org.bukkit.event.entity.PigZombieAngerEvent":["getEntity()"]},"<init>(org.bukkit.entity.PigZombie, org.bukkit.entity.Entity, int)":{"net.minecraft.server.v1_16_R1.EntityPigZombie":["anger()"]},"getNewAnger()":{"net.minecraft.server.v1_16_R1.EntityPigZombie":["anger()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityPigZombie":["anger()"]}}

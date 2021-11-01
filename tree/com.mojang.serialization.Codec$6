@@ -1,0 +1,1 @@
+{"<init>(com.mojang.serialization.Codec, java.util.function.UnaryOperator, java.util.function.Supplier)":{"com.mojang.serialization.Codec":["withDefault(java.util.function.UnaryOperator, java.util.function.Supplier)"]}}

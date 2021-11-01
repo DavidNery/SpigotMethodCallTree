@@ -1,0 +1,1 @@
+{"create(com.mojang.brigadier.StringReader, java.lang.Number, java.lang.Number)":{"net.minecraft.server.v1_16_R1.CriterionConditionValue":["a(com.mojang.brigadier.StringReader, net.minecraft.server.v1_16_R1.CriterionConditionValue$b, java.util.function.Function, java.util.function.Supplier, java.util.function.Function)"]}}

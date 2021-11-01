@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityBee)":{"net.minecraft.server.v1_16_R1.EntityBee$d":["<init>(net.minecraft.server.v1_16_R1.EntityBee, net.minecraft.server.v1_16_R1.EntityBee$1)"]},"<init>(net.minecraft.server.v1_16_R1.EntityBee, net.minecraft.server.v1_16_R1.EntityBee$1)":{"net.minecraft.server.v1_16_R1.EntityBee":["initPathfinder()"]}}

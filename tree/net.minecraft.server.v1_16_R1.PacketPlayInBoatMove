@@ -1,0 +1,1 @@
+{"b()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]},"c()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]},"<init>(boolean, boolean)":{"net.minecraft.server.v1_16_R1.EntityBoat":["tick()"]},"a(net.minecraft.server.v1_16_R1.PacketListenerPlayIn)":{"net.minecraft.server.v1_16_R1.PacketPlayInBoatMove":["a(net.minecraft.server.v1_16_R1.PacketListener)"]}}

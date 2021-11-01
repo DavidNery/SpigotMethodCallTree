@@ -1,0 +1,1 @@
+{"getUniqueId()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftAbstractHorse":["setOwner()"],"org.bukkit.craftbukkit.v1_16_R1.entity.CraftTameableAnimal":["setOwner()"],"org.bukkit.craftbukkit.v1_16_R1.entity.CraftFox":["setFirstTrustedPlayer()","setSecondTrustedPlayer()"]}}

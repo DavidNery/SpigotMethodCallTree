@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.IResourcePack, java.lang.Throwable)":{"net.minecraft.server.v1_16_R1.ResourceManager":["a(java.util.concurrent.Executor, java.util.concurrent.Executor, java.util.concurrent.CompletableFuture, java.util.List)"]}}

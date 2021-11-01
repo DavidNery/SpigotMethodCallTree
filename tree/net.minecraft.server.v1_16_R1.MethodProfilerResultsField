@@ -1,0 +1,1 @@
+{"compareTo(net.minecraft.server.v1_16_R1.MethodProfilerResultsField)":{"net.minecraft.server.v1_16_R1.MethodProfilerResultsField":["compareTo(java.lang.Object)"]},"<init>(java.lang.String, double, double, long)":{"net.minecraft.server.v1_16_R1.MethodProfilerResultsFilled":["a(java.lang.String)","a(java.lang.String)","a(java.lang.String)"]}}

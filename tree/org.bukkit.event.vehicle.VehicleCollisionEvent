@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Vehicle)":{"org.bukkit.event.vehicle.VehicleBlockCollisionEvent":["<init>(org.bukkit.entity.Vehicle, org.bukkit.block.Block)"],"org.bukkit.event.vehicle.VehicleEntityCollisionEvent":["<init>(org.bukkit.entity.Vehicle, org.bukkit.entity.Entity)"]}}

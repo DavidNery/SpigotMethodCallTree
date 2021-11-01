@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.PacketListenerPlayOut)":{"net.minecraft.server.v1_16_R1.PacketPlayOutPlayerListHeaderFooter":["a(net.minecraft.server.v1_16_R1.PacketListener)"]},"<init>()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftPlayer":["updatePlayerListHeaderFooter()"]}}

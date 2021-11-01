@@ -1,0 +1,1 @@
+{"getEntity()":{"org.bukkit.event.entity.ItemDespawnEvent":["getEntity()"]},"<init>(org.bukkit.entity.Item, org.bukkit.Location)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callItemDespawnEvent(net.minecraft.server.v1_16_R1.EntityItem)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityItem":["tick()","inactiveTick()"]}}

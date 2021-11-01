@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.Difficulty":["<clinit>()"]},"getByValue(int)":{"org.bukkit.craftbukkit.v1_16_R1.CraftWorld":["getDifficulty()"]},"<init>(java.lang.String, int, int)":{"org.bukkit.Difficulty":["<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"getValue()":{"org.bukkit.craftbukkit.v1_16_R1.CraftWorld":["setDifficulty()"]}}

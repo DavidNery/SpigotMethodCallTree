@@ -1,0 +1,1 @@
+{"<init>()":{"net.minecraft.server.v1_16_R1.BlockDaylightDetector":["createTile()"],"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftMetaBlockState":["getBlockState()"]},"getBlock()":{"net.minecraft.server.v1_16_R1.TileEntityLightDetector":["tick()"]}}

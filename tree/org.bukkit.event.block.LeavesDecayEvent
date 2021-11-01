@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.block.Block)":{"net.minecraft.server.v1_16_R1.BlockLeaves":["tick(net.minecraft.server.v1_16_R1.IBlockData, net.minecraft.server.v1_16_R1.WorldServer, net.minecraft.server.v1_16_R1.BlockPosition, java.util.Random)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.BlockLeaves":["tick()"]}}

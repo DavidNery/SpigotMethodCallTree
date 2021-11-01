@@ -1,0 +1,1 @@
+{"g()":{"net.minecraft.server.v1_16_R1.EntityBlaze$PathfinderGoalBlazeFireball":["e()","e()"]},"<init>(net.minecraft.server.v1_16_R1.EntityBlaze)":{"net.minecraft.server.v1_16_R1.EntityBlaze":["initPathfinder()"]},"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.EntityBlaze$PathfinderGoalBlazeFireball":["<init>(net.minecraft.server.v1_16_R1.EntityBlaze)"]}}

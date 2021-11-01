@@ -1,0 +1,1 @@
+{"test(net.minecraft.server.v1_16_R1.ShapeDetectorBlock)":{"net.minecraft.server.v1_16_R1.ArgumentBlockPredicate$a":["test(java.lang.Object)"]},"<init>(net.minecraft.server.v1_16_R1.IBlockData, java.util.Set, net.minecraft.server.v1_16_R1.NBTTagCompound)":{"net.minecraft.server.v1_16_R1.ArgumentBlockPredicate":["parse(com.mojang.brigadier.StringReader)"]}}

@@ -1,0 +1,1 @@
+{"check(java.lang.Iterable)":{"org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler$2":["run()","run()"]},"<init>(org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler, int)":{"org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler":["cancelTask(int)"]}}

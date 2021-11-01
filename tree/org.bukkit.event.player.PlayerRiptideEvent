@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, org.bukkit.inventory.ItemStack)":{"net.minecraft.server.v1_16_R1.ItemTrident":["a(net.minecraft.server.v1_16_R1.ItemStack, net.minecraft.server.v1_16_R1.World, net.minecraft.server.v1_16_R1.EntityLiving, int)"]},"getPlayer()":{"net.minecraft.server.v1_16_R1.ItemTrident":["a()"]}}

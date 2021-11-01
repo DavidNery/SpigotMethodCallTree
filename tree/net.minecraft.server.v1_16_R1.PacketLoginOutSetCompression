@@ -1,0 +1,1 @@
+{"<init>(int)":{"net.minecraft.server.v1_16_R1.LoginListener":["c()"]},"a(net.minecraft.server.v1_16_R1.PacketLoginOutListener)":{"net.minecraft.server.v1_16_R1.PacketLoginOutSetCompression":["a(net.minecraft.server.v1_16_R1.PacketListener)"]}}

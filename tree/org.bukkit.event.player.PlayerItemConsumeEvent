@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, org.bukkit.inventory.ItemStack)":{"net.minecraft.server.v1_16_R1.EntityLiving":["s()"]},"getItem()":{"net.minecraft.server.v1_16_R1.EntityLiving":["s()","s()"]},"getReplacement()":{"net.minecraft.server.v1_16_R1.EntityLiving":["s()","s()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityLiving":["s()"]}}

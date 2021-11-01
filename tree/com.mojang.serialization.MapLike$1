@@ -1,0 +1,1 @@
+{"<init>(java.util.Map, com.mojang.serialization.DynamicOps)":{"com.mojang.serialization.MapLike":["forMap(java.util.Map, com.mojang.serialization.DynamicOps)"]},"get(java.lang.Object)":{"com.mojang.serialization.MapLike$1":["get(java.lang.String)"]}}

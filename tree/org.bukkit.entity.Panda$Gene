@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftPanda":["fromNms()"]},"<init>(java.lang.String, int, boolean)":{"org.bukkit.entity.Panda$Gene":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftPanda":["toNms()"]}}

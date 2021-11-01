@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.event.server.ServerLoadEvent$LoadType)":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["reload()"],"net.minecraft.server.v1_16_R1.MinecraftServer":["loadWorld(java.lang.String)"]}}

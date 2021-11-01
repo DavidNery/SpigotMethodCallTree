@@ -1,0 +1,1 @@
+{"write(com.mojang.serialization.DynamicOps, java.util.stream.IntStream)":{"com.mojang.serialization.Codec$18":["write(com.mojang.serialization.DynamicOps, java.lang.Object)"]},"<init>()":{"com.mojang.serialization.Codec":["<clinit>()"]}}

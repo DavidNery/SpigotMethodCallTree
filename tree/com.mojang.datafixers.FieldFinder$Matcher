@@ -1,0 +1,1 @@
+{"<init>(java.lang.String, com.mojang.datafixers.types.Type, com.mojang.datafixers.types.Type)":{"com.mojang.datafixers.FieldFinder":["findType(com.mojang.datafixers.types.Type, com.mojang.datafixers.types.Type, boolean)"]},"capChoice(com.mojang.datafixers.types.Type)":{"com.mojang.datafixers.FieldFinder$Matcher":["match(com.mojang.datafixers.types.Type)"]}}

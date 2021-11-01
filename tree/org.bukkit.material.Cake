@@ -1,0 +1,1 @@
+{"setData(byte)":{"org.bukkit.material.Cake":["setSlicesEaten(int)","setSlicesRemaining(int)"]},"getSlicesEaten()":{"org.bukkit.material.Cake":["toString()"]},"getData()":{"org.bukkit.material.Cake":["getSlicesEaten()","getSlicesRemaining()"]},"clone()":{"org.bukkit.material.Cake":["clone()","clone()"]},"getSlicesRemaining()":{"org.bukkit.material.Cake":["toString()"]}}

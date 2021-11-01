@@ -1,0 +1,1 @@
+{"fillProfileProperties(com.mojang.authlib.GameProfile, boolean)":{"net.minecraft.server.v1_16_R1.TileEntitySkull$1":["load(java.lang.String)"]},"hasJoinedServer(com.mojang.authlib.GameProfile, java.lang.String, java.net.InetAddress)":{"net.minecraft.server.v1_16_R1.LoginListener$2":["run()"]}}

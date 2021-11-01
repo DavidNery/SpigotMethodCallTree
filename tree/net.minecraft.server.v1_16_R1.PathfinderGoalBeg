@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.EntityHuman)":{"net.minecraft.server.v1_16_R1.PathfinderGoalBeg":["a()","b()"]},"<init>(net.minecraft.server.v1_16_R1.EntityWolf, float)":{"net.minecraft.server.v1_16_R1.EntityWolf":["initPathfinder()"]},"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.PathfinderGoalBeg":["<init>(net.minecraft.server.v1_16_R1.EntityWolf, float)"]}}

@@ -1,0 +1,1 @@
+{"b(int, int)":{"net.minecraft.server.v1_16_R1.ChunkProviderDebug":["addDecorations(net.minecraft.server.v1_16_R1.RegionLimitedWorldAccess, net.minecraft.server.v1_16_R1.StructureManager)"],"net.minecraft.server.v1_16_R1.Chunk":["getBlockData_unused(int, int, int)"]},"<init>()":{"net.minecraft.server.v1_16_R1.ChunkProviderDebug":["<clinit>()"]}}

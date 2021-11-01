@@ -1,0 +1,1 @@
+{"write(com.mojang.serialization.DynamicOps, java.nio.ByteBuffer)":{"com.mojang.serialization.Codec$17":["write(com.mojang.serialization.DynamicOps, java.lang.Object)"]},"<init>()":{"com.mojang.serialization.Codec":["<clinit>()"]}}

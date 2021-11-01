@@ -1,0 +1,1 @@
+{"evaluate()":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer$2":["evaluate()"]},"<init>(org.bukkit.craftbukkit.v1_16_R1.CraftServer, org.bukkit.command.CommandSender, java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["dispatchCommand(org.bukkit.command.CommandSender, java.lang.String)"]}}

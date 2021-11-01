@@ -1,0 +1,1 @@
+{"getSpawnReason()":{"org.bukkit.entity.ExperienceOrb":["isFromBottle()"]},"getExperience()":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callPlayerExpChangeEvent()"]}}

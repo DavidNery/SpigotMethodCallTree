@@ -1,0 +1,1 @@
+{"getHolder()":{"org.bukkit.inventory.LecternInventory":["getHolder()"]},"getItem(int)":{"org.bukkit.inventory.LecternInventory":["getBook()"]},"setItem(int, org.bukkit.inventory.ItemStack)":{"org.bukkit.inventory.LecternInventory":["setBook(org.bukkit.inventory.ItemStack)"]}}

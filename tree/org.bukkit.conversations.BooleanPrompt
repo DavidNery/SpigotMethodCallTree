@@ -1,0 +1,1 @@
+{"acceptValidatedInput(org.bukkit.conversations.ConversationContext, boolean)":{"org.bukkit.conversations.BooleanPrompt":["acceptValidatedInput(org.bukkit.conversations.ConversationContext, java.lang.String)"]}}

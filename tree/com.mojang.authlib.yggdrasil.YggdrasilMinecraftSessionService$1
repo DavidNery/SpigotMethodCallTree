@@ -1,0 +1,1 @@
+{"<init>(com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService)":{"com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService":["<init>(com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService, com.mojang.authlib.Environment)"]},"load(com.mojang.authlib.GameProfile)":{"com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1":["load(java.lang.Object)"]}}

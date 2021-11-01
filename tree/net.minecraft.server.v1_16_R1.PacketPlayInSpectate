@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.WorldServer)":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a(net.minecraft.server.v1_16_R1.PacketPlayInSpectate)"]},"a(net.minecraft.server.v1_16_R1.PacketListenerPlayIn)":{"net.minecraft.server.v1_16_R1.PacketPlayInSpectate":["a(net.minecraft.server.v1_16_R1.PacketListener)"]}}

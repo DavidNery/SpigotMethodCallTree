@@ -1,0 +1,1 @@
+{"<init>(org.apache.logging.log4j.Logger)":{"net.minecraft.server.v1_16_R1.SystemUtils":["l()"],"net.minecraft.server.v1_16_R1.HttpUtilities":["<clinit>()"],"net.minecraft.server.v1_16_R1.ServerGUI":["e()"],"net.minecraft.server.v1_16_R1.DedicatedServer":["init()"]}}

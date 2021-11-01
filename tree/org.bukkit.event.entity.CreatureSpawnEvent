@@ -1,0 +1,1 @@
+{"getEntity()":{"org.bukkit.event.entity.CreatureSpawnEvent":["getEntity()"]},"<init>(org.bukkit.entity.LivingEntity, org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callCreatureSpawnEvent(net.minecraft.server.v1_16_R1.EntityLiving, org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)"]}}

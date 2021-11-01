@@ -1,0 +1,1 @@
+{"getItem(int)":{"org.bukkit.inventory.GrindstoneInventory":["getUpperItem()","getLowerItem()","getResult()"]},"setItem(int, org.bukkit.inventory.ItemStack)":{"org.bukkit.inventory.GrindstoneInventory":["setUpperItem(org.bukkit.inventory.ItemStack)","setLowerItem(org.bukkit.inventory.ItemStack)","setResult(org.bukkit.inventory.ItemStack)"]}}

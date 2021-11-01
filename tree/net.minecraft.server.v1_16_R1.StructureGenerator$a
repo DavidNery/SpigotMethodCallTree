@@ -1,0 +1,1 @@
+{"create(net.minecraft.server.v1_16_R1.StructureGenerator, int, int, net.minecraft.server.v1_16_R1.StructureBoundingBox, int, long)":{"net.minecraft.server.v1_16_R1.StructureGenerator":["a(int, int, net.minecraft.server.v1_16_R1.StructureBoundingBox, int, long)"]}}

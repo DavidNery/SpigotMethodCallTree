@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.boss.CraftDragonBattle":["toBukkitRespawnPhase()"]},"<init>(java.lang.String, int)":{"org.bukkit.boss.DragonBattle$RespawnPhase":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.boss.CraftDragonBattle":["toNMSRespawnPhase()"]}}

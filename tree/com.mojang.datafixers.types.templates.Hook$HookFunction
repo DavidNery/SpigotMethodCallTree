@@ -1,0 +1,1 @@
+{"apply(com.mojang.serialization.DynamicOps, java.lang.Object)":{"com.mojang.datafixers.types.templates.Hook$HookType$1":["decode(com.mojang.serialization.DynamicOps, java.lang.Object)","lambda$encode$0(com.mojang.serialization.DynamicOps, java.lang.Object)"]}}

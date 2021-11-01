@@ -1,0 +1,1 @@
+{"withConversationCanceller(org.bukkit.conversations.ConversationCanceller)":{"org.bukkit.conversations.ConversationFactory":["withTimeout(int)","withEscapeSequence(java.lang.String)"]}}

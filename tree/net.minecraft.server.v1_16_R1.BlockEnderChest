@@ -1,0 +1,1 @@
+{"getBlockData()":{"net.minecraft.server.v1_16_R1.BlockEnderChest":["getPlacedState()"]},"j(net.minecraft.server.v1_16_R1.IBlockData)":{"net.minecraft.server.v1_16_R1.BlockEnderChest":["<init>(net.minecraft.server.v1_16_R1.BlockBase$Info)"]},"<init>(net.minecraft.server.v1_16_R1.BlockBase$Info)":{"net.minecraft.server.v1_16_R1.Blocks":["<clinit>()"]}}

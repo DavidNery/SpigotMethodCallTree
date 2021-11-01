@@ -1,0 +1,1 @@
+{"getKey()":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftLootable":["setLootTable()"],"org.bukkit.craftbukkit.v1_16_R1.CraftLootTable":["equals()"],"org.bukkit.craftbukkit.v1_16_R1.entity.CraftMob":["setLootTable()"],"org.bukkit.craftbukkit.v1_16_R1.entity.CraftMinecartContainer":["setLootTable()"]}}

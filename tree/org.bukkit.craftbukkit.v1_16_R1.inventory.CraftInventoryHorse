@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.IInventory)":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftHorse":["getInventory()"]},"getItem(int)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftInventoryHorse":["getArmor()"]},"setItem(int, org.bukkit.inventory.ItemStack)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftInventoryHorse":["setArmor(org.bukkit.inventory.ItemStack)"]}}

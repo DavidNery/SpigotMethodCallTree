@@ -1,0 +1,1 @@
+{"a(byte)":{"net.minecraft.server.v1_16_R1.DataConverterItemFrame":["a(com.mojang.serialization.Dynamic)"]},"<init>(com.mojang.datafixers.schemas.Schema, boolean)":{"net.minecraft.server.v1_16_R1.DataConverterRegistry":["a(com.mojang.datafixers.DataFixerBuilder)"]}}

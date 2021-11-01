@@ -1,0 +1,1 @@
+{"setFacingDirection(org.bukkit.block.BlockFace)":{"org.bukkit.material.Furnace":["<init>(org.bukkit.block.BlockFace)"]},"<init>()":{"org.bukkit.material.Furnace":["<init>()"]},"clone()":{"org.bukkit.material.Furnace":["clone()","clone()","clone()","clone()"]}}

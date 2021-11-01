@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.Material, net.minecraft.server.v1_16_R1.TileEntityComparator)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftMetaBlockState":["getBlockState()"]},"<init>(org.bukkit.block.Block)":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftBlock":["getState0()"]}}

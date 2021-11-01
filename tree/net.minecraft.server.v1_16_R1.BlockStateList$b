@@ -1,0 +1,1 @@
+{"create(java.lang.Object, com.google.common.collect.ImmutableMap, com.mojang.serialization.MapCodec)":{"net.minecraft.server.v1_16_R1.BlockStateList":["a(net.minecraft.server.v1_16_R1.BlockStateList$b, java.lang.Object, com.mojang.serialization.MapCodec, java.util.Map, java.util.List, java.util.List)"]}}

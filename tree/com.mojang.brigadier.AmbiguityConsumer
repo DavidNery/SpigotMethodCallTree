@@ -1,0 +1,1 @@
+{"ambiguous(com.mojang.brigadier.tree.CommandNode, com.mojang.brigadier.tree.CommandNode, com.mojang.brigadier.tree.CommandNode, java.util.Collection)":{"com.mojang.brigadier.tree.CommandNode":["findAmbiguities(com.mojang.brigadier.AmbiguityConsumer)"]}}

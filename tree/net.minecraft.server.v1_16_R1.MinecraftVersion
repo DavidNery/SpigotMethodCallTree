@@ -1,0 +1,1 @@
+{"a()":{"net.minecraft.server.v1_16_R1.SharedConstants":["getGameVersion()"]},"<init>()":{"net.minecraft.server.v1_16_R1.MinecraftVersion":["<clinit>()"]},"<init>(com.google.gson.JsonObject)":{"net.minecraft.server.v1_16_R1.MinecraftVersion":["a()"]}}

@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftFox":["getFoxType()"]},"<init>(java.lang.String, int)":{"org.bukkit.entity.Fox$Type":["<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftFox":["setFoxType()"]}}

@@ -1,0 +1,1 @@
+{"<init>(java.util.Map)":{"org.bukkit.util.io.Wrapper":["newWrapper(org.bukkit.configuration.serialization.ConfigurationSerializable)"]},"newWrapper(org.bukkit.configuration.serialization.ConfigurationSerializable)":{"org.bukkit.util.io.BukkitObjectOutputStream":["replaceObject(java.lang.Object)"]}}

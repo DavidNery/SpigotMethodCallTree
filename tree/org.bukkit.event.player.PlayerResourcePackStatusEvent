@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, org.bukkit.event.player.PlayerResourcePackStatusEvent$Status)":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a(net.minecraft.server.v1_16_R1.PacketPlayInResourcePackStatus)"]}}

@@ -1,0 +1,1 @@
+{"sendMessage(java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.command.CraftConsoleCommandSender":["sendMessage(java.lang.String[])"]},"sendRawMessage(java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.command.CraftConsoleCommandSender":["sendMessage(java.lang.String)"]}}

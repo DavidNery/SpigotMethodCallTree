@@ -1,0 +1,1 @@
+{"valueOf(java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftSpellcaster":["getSpell()"]},"<init>(java.lang.String, int)":{"org.bukkit.entity.Spellcaster$Spell":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftSpellcaster":["setSpell()"]}}

@@ -1,0 +1,1 @@
+{"g()":{"net.minecraft.server.v1_16_R1.EntitySheep":["mobTick()"]},"<init>(net.minecraft.server.v1_16_R1.EntityInsentient)":{"net.minecraft.server.v1_16_R1.EntitySheep":["initPathfinder()"]},"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.PathfinderGoalEatTile":["<init>(net.minecraft.server.v1_16_R1.EntityInsentient)"]}}

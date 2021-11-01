@@ -1,0 +1,1 @@
+{"encode(com.mojang.serialization.Dynamic, com.mojang.serialization.DynamicOps, java.lang.Object)":{"com.mojang.serialization.Codec$20":["encode(java.lang.Object, com.mojang.serialization.DynamicOps, java.lang.Object)"]},"<init>()":{"com.mojang.serialization.Codec":["<clinit>()"]}}

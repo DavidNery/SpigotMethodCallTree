@@ -1,0 +1,1 @@
+{"modify(com.mojang.brigadier.context.CommandContext, net.minecraft.server.v1_16_R1.NBTTagCompound, net.minecraft.server.v1_16_R1.ArgumentNBTKey$h, java.util.List)":{"net.minecraft.server.v1_16_R1.CommandData":["a(com.mojang.brigadier.context.CommandContext, net.minecraft.server.v1_16_R1.CommandData$c, net.minecraft.server.v1_16_R1.CommandData$a, java.util.List)"]}}

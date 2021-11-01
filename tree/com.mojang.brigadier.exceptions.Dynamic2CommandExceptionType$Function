@@ -1,0 +1,1 @@
+{"apply(java.lang.Object, java.lang.Object)":{"com.mojang.brigadier.exceptions.Dynamic2CommandExceptionType":["create(java.lang.Object, java.lang.Object)","createWithContext(com.mojang.brigadier.ImmutableStringReader, java.lang.Object, java.lang.Object)"]}}

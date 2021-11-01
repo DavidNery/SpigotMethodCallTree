@@ -1,0 +1,1 @@
+{"setData(byte)":{"org.bukkit.material.DetectorRail":["setPressed(boolean)"]},"getData()":{"org.bukkit.material.DetectorRail":["isPressed()","setPressed()","setPressed()"]},"clone()":{"org.bukkit.material.DetectorRail":["clone()","clone()","clone()","clone()"]}}

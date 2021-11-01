@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.IWorldReader, boolean)":{"net.minecraft.server.v1_16_R1.ShapeDetector":["a(net.minecraft.server.v1_16_R1.IWorldReader, boolean)"]},"load(net.minecraft.server.v1_16_R1.BlockPosition)":{"net.minecraft.server.v1_16_R1.ShapeDetector$BlockLoader":["load(java.lang.Object)"]}}

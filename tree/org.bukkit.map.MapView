@@ -1,0 +1,1 @@
+{"getId()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftPlayer":["sendMap()"],"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftMetaMap":["setMapView()"]},"getScale()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftPlayer":["sendMap()"]},"isLocked()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftPlayer":["sendMap()"]}}

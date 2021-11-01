@@ -1,0 +1,1 @@
+{"values()":{"net.minecraft.server.v1_16_R1.ReputationType":["<clinit>()"]},"<init>(java.lang.String, int, java.lang.String, int, int, int, int)":{"net.minecraft.server.v1_16_R1.ReputationType":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"getWeight()":{"net.minecraft.server.v1_16_R1.Reputation$a":["a()"]}}

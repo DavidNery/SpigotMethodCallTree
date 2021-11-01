@@ -1,0 +1,1 @@
+{"decoder()":{"com.mojang.serialization.Decoder":["ofTerminal()"]},"decode(com.mojang.serialization.DynamicOps, java.lang.Object)":{"com.mojang.serialization.Decoder$Terminal$1":["decode(com.mojang.serialization.DynamicOps, java.lang.Object)"]}}

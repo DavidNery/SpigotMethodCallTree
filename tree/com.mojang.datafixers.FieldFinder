@@ -1,0 +1,1 @@
+{"<init>(java.lang.String, com.mojang.datafixers.types.Type)":{"com.mojang.datafixers.types.Type":["findField(java.lang.String)"],"net.minecraft.server.v1_16_R1.DataConverterMissingDimension":["makeRule()"],"com.mojang.datafixers.DSL":["typeFinder(com.mojang.datafixers.types.Type)","fieldFinder(java.lang.String, com.mojang.datafixers.types.Type)"]}}

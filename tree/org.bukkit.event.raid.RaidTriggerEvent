@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.Raid, org.bukkit.World, org.bukkit.entity.Player)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callRaidTriggerEvent(net.minecraft.server.v1_16_R1.Raid, net.minecraft.server.v1_16_R1.EntityPlayer)"]},"isCancelled()":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callRaidTriggerEvent()"]}}

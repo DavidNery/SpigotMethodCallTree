@@ -1,0 +1,1 @@
+{"populate(org.bukkit.World, java.util.Random, org.bukkit.Chunk)":{"net.minecraft.server.v1_16_R1.Chunk":["loadCallback()"]}}

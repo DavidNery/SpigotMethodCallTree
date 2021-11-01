@@ -1,0 +1,1 @@
+{"paginate(java.lang.String, int, int, int)":{"org.bukkit.util.ChatPaginator":["paginate(java.lang.String, int)"],"org.bukkit.command.defaults.HelpCommand":["execute(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[])"]},"wordWrap(java.lang.String, int)":{"org.bukkit.util.ChatPaginator":["paginate(java.lang.String, int, int, int)"]}}

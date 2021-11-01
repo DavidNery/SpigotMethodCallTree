@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.plugin.RegisteredServiceProvider)":{"org.bukkit.event.server.ServiceUnregisterEvent":["<init>(org.bukkit.plugin.RegisteredServiceProvider)"],"org.bukkit.event.server.ServiceRegisterEvent":["<init>(org.bukkit.plugin.RegisteredServiceProvider)"]}}

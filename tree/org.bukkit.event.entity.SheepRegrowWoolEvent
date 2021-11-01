@@ -1,0 +1,1 @@
+{"getEntity()":{"org.bukkit.event.entity.SheepRegrowWoolEvent":["getEntity()"]},"<init>(org.bukkit.entity.Sheep)":{"net.minecraft.server.v1_16_R1.EntitySheep":["blockEaten()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntitySheep":["blockEaten()"]}}

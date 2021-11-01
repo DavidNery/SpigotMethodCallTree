@@ -1,0 +1,1 @@
+{"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.PathfinderGoalMoveTowardsTarget":["<init>(net.minecraft.server.v1_16_R1.EntityCreature, double, float)"]},"<init>(net.minecraft.server.v1_16_R1.EntityCreature, double, float)":{"net.minecraft.server.v1_16_R1.EntityIronGolem":["initPathfinder()"]}}

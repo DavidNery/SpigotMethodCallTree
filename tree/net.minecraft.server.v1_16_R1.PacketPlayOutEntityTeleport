@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.PacketListenerPlayOut)":{"net.minecraft.server.v1_16_R1.PacketPlayOutEntityTeleport":["a(net.minecraft.server.v1_16_R1.PacketListener)"]},"<init>(net.minecraft.server.v1_16_R1.Entity)":{"net.minecraft.server.v1_16_R1.EntityTNTPrimed":["tick()"],"net.minecraft.server.v1_16_R1.EntityTrackerEntry":["a()","a()"]}}

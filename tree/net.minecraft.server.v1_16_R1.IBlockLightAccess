@@ -1,0 +1,1 @@
+{"getBrightness(net.minecraft.server.v1_16_R1.EnumSkyBlock, net.minecraft.server.v1_16_R1.BlockPosition)":{"net.minecraft.server.v1_16_R1.IBlockLightAccess":["f(net.minecraft.server.v1_16_R1.BlockPosition)"]},"e()":{"net.minecraft.server.v1_16_R1.IBlockLightAccess":["getBrightness()","getLightLevel()"]},"H()":{"net.minecraft.server.v1_16_R1.IBlockLightAccess":["f()"]}}

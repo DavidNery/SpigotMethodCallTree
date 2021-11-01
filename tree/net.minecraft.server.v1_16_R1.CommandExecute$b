@@ -1,0 +1,1 @@
+{"test(com.mojang.brigadier.context.CommandContext)":{"net.minecraft.server.v1_16_R1.CommandExecute":["a(boolean, net.minecraft.server.v1_16_R1.CommandExecute$b, com.mojang.brigadier.context.CommandContext)","b(boolean, net.minecraft.server.v1_16_R1.CommandExecute$b, com.mojang.brigadier.context.CommandContext)"]}}

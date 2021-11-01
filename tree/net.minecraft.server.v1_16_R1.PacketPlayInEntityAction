@@ -1,0 +1,1 @@
+{"d()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]},"c()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()","a()","a()","a()"]},"a(net.minecraft.server.v1_16_R1.PacketListenerPlayIn)":{"net.minecraft.server.v1_16_R1.PacketPlayInEntityAction":["a(net.minecraft.server.v1_16_R1.PacketListener)"]}}

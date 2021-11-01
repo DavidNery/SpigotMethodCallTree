@@ -1,0 +1,1 @@
+{"<init>(com.mojang.serialization.Codec)":{"net.minecraft.server.v1_16_R1.WeightedList$a":["a(com.mojang.serialization.Codec)"]},"encode(net.minecraft.server.v1_16_R1.WeightedList$a, com.mojang.serialization.DynamicOps, java.lang.Object)":{"net.minecraft.server.v1_16_R1.WeightedList$a$1":["encode(java.lang.Object, com.mojang.serialization.DynamicOps, java.lang.Object)"]}}

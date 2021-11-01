@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.WorldChunkManager, net.minecraft.server.v1_16_R1.StructureSettings)":{"org.bukkit.craftbukkit.v1_16_R1.generator.CustomChunkGenerator":["<init>(net.minecraft.server.v1_16_R1.WorldServer, net.minecraft.server.v1_16_R1.ChunkGenerator, org.bukkit.generator.ChunkGenerator)"]}}

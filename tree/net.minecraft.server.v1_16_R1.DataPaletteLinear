@@ -1,0 +1,1 @@
+{"b()":{"net.minecraft.server.v1_16_R1.DataPaletteLinear":["a()","a()"]},"<init>(net.minecraft.server.v1_16_R1.RegistryBlockID, int, net.minecraft.server.v1_16_R1.DataPaletteExpandable, java.util.function.Function)":{"net.minecraft.server.v1_16_R1.DataPaletteBlock":["b(int)"]}}

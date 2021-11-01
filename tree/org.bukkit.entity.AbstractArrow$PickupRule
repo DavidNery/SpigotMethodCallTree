@@ -1,0 +1,1 @@
+{"valueOf(java.lang.String)":{"org.bukkit.entity.AbstractArrow":["getPickupRule()"]},"name()":{"org.bukkit.entity.AbstractArrow":["setPickupRule()"]},"<init>(java.lang.String, int)":{"org.bukkit.entity.AbstractArrow$PickupRule":["<clinit>()","<clinit>()","<clinit>()"]}}

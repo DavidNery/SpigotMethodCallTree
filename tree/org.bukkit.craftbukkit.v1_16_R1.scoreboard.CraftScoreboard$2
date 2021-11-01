@@ -1,0 +1,1 @@
+{"apply(net.minecraft.server.v1_16_R1.ScoreboardTeam)":{"org.bukkit.craftbukkit.v1_16_R1.scoreboard.CraftScoreboard$2":["apply(java.lang.Object)"]},"<init>(org.bukkit.craftbukkit.v1_16_R1.scoreboard.CraftScoreboard)":{"org.bukkit.craftbukkit.v1_16_R1.scoreboard.CraftScoreboard":["getTeams()"]}}

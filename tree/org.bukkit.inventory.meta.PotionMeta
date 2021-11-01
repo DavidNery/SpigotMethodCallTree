@@ -1,0 +1,1 @@
+{"setBasePotionData(org.bukkit.potion.PotionData)":{"org.bukkit.potion.Potion":["apply(org.bukkit.inventory.ItemStack)","toItemStack(int)"]},"clone()":{"org.bukkit.inventory.meta.PotionMeta":["clone()"]}}

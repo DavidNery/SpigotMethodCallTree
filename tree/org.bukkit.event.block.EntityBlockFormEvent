@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Entity, org.bukkit.block.Block, org.bukkit.block.BlockState)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["handleBlockFormEvent(net.minecraft.server.v1_16_R1.World, net.minecraft.server.v1_16_R1.BlockPosition, net.minecraft.server.v1_16_R1.IBlockData, int, net.minecraft.server.v1_16_R1.Entity)"]}}

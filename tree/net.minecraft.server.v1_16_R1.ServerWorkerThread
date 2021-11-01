@@ -1,0 +1,1 @@
+{"setUncaughtExceptionHandler(java.lang.Thread$UncaughtExceptionHandler)":{"net.minecraft.server.v1_16_R1.ServerWorkerThread":["<init>(java.lang.Runnable)"]},"setDaemon(boolean)":{"net.minecraft.server.v1_16_R1.ServerWorkerThread":["<init>(java.lang.Runnable)"]},"setPriority(int)":{"net.minecraft.server.v1_16_R1.ServerWorkerThread":["<init>(java.lang.Runnable)"]}}

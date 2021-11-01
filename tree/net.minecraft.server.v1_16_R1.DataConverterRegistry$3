@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.schemas.Schema, boolean, java.lang.String, com.mojang.datafixers.DSL$TypeReference, java.lang.String)":{"net.minecraft.server.v1_16_R1.DataConverterRegistry":["a(com.mojang.datafixers.DataFixerBuilder)"]}}

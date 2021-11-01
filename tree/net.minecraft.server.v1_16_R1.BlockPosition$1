@@ -1,0 +1,1 @@
+{"computeNext()":{"net.minecraft.server.v1_16_R1.BlockPosition$1":["computeNext()"]},"<init>(int, int, java.util.Random, int, int, int, int, int)":{"net.minecraft.server.v1_16_R1.BlockPosition":["lambda$a$3(int, int, java.util.Random, int, int, int, int, int)"]},"endOfData()":{"net.minecraft.server.v1_16_R1.BlockPosition$1":["computeNext()"]}}

@@ -1,0 +1,1 @@
+{"getTaskId()":{"org.bukkit.scheduler.BukkitRunnable":["getTaskId()","checkNotYetScheduled()"],"org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler":["scheduleSyncRepeatingTask()","scheduleAsyncRepeatingTask()"]},"isCancelled()":{"org.bukkit.scheduler.BukkitRunnable":["isCancelled()"]}}

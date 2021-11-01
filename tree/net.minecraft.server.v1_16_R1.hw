@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.DebugReportGenerator)":{"net.minecraft.data.Main":["a(java.nio.file.Path, java.util.Collection, boolean, boolean, boolean, boolean, boolean)"]},"a(net.minecraft.server.v1_16_R1.IRegistry)":{"net.minecraft.server.v1_16_R1.hw":["a(com.google.gson.JsonObject, net.minecraft.server.v1_16_R1.MinecraftKey)"]}}

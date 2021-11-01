@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+    html,
+    body {
+      margin: 0;
+    }
+
+    .collapsible {
+      background-color: #eee;
+      color: #444;
+      cursor: pointer;
+      padding: 18px;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 15px;
+    }
+
+    .collapsible .collapsible {
+      background-color: #ddd !important;
+      padding: 18px 24px !important;
+    }
+
+    .collapsible .collapsible .collapsible {
+      background-color: #ccc  !important;
+      padding: 18px 30px  !important;
+    }
+
+    #root > div:not(:last-child) {
+      border-bottom: solid 1px #444;
+    }
+
+    .collapsible:hover {
+      background-color: #ccc;
+    }
+
+    .content {
+      display: none;
+      padding: 0 18px;
+      background-color: white;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="root"></div>
+
+  <script>
+    function escapeHtml(unsafe) {
+      return unsafe.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#039;');
+    }
+
+    function collapsibleFunc(e) {
+      e.stopPropagation();
+      this.classList.toggle("active");
+      let content = this.nextElementSibling;
+      if (content) {
+        if (content.style.display)
+          content.style.display = null;
+        else
+          content.style.display = 'block';
+
+        return;
+      } else {
+        content = document.createElement('div');
+        content.classList = ['content'];
+        content.style.display = 'block';
+
+        this.parentNode.appendChild(content);
+      }
+
+      const request = new XMLHttpRequest();
+      request.onreadystatechange = function () {
+        if (this.readyState === 4 && this.status === 200) {
+          const response = JSON.parse(this.responseText);
+
+          for (const method of Object.keys(response)) {
+            const methodDiv = document.createElement('div');
+            const methodCollapsible = document.createElement('div');
+            methodCollapsible.classList = ['collapsible'];
+            methodCollapsible.innerHTML = escapeHtml(method);
+            methodCollapsible.addEventListener('click', collapsibleFunc);
+
+            const methodContent = document.createElement('div');
+            methodContent.classList = ['content'];
+
+            for (const usingClass of Object.keys(response[method])) {
+              const usingClassDiv = document.createElement('div');
+              const usingClassCollapsible = document.createElement('div');
+              usingClassCollapsible.classList = ['collapsible'];
+              usingClassCollapsible.innerHTML = escapeHtml(usingClass);
+              usingClassCollapsible.addEventListener('click', collapsibleFunc);
+
+              const usingClassContent = document.createElement('div');
+              usingClassContent.classList = ['content'];
+
+              const ul = document.createElement('ul');
+              for (const usingMethod of response[method][usingClass]) {
+                const li = document.createElement('li');
+                li.innerHTML = escapeHtml(usingMethod);
+
+                ul.appendChild(li);
+              }
+
+              usingClassContent.appendChild(ul);
+              usingClassDiv.appendChild(usingClassCollapsible);
+              usingClassDiv.appendChild(usingClassContent);
+              methodContent.appendChild(usingClassDiv);
+            }
+
+            methodDiv.appendChild(methodCollapsible);
+            methodDiv.appendChild(methodContent);
+            content.appendChild(methodDiv);
+          }
+        }
+      }
+
+      request.open('GET', `./tree/${this.innerHTML}`, true);
+      request.send();
+    }
+  </script>
+
+  <script>
+    const root = document.getElementById('root');
+
+    const request = new XMLHttpRequest();
+    request.onreadystatechange = function () {
+      if (this.readyState === 4 && this.status === 200) {
+        const response = Array.prototype.slice.call(
+          this.responseXML.getElementsByTagName('a'), 5
+        );
+
+        for (const clazz of response) {
+          const classDiv = document.createElement('div');
+          const classCollapsible = document.createElement('div');
+          classCollapsible.classList = ['collapsible'];
+          classCollapsible.innerHTML = clazz.getAttribute('href');
+          classCollapsible.addEventListener('click', collapsibleFunc);
+
+          classDiv.appendChild(classCollapsible);
+          root.appendChild(classDiv);
+        }
+      }
+    }
+
+    request.responseType = 'document';
+    request.open('GET', './tree', true);
+    request.send();
+  </script>
+
+</body>
+
+</html>

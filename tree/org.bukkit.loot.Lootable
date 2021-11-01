@@ -1,0 +1,1 @@
+{"getLootTable()":{"org.bukkit.loot.Lootable":["hasLootTable()"]},"setLootTable(org.bukkit.loot.LootTable)":{"org.bukkit.loot.Lootable":["setLootTable(org.bukkit.loot.LootTable, long)","clearLootTable()"]},"setSeed(long)":{"org.bukkit.loot.Lootable":["setLootTable(org.bukkit.loot.LootTable, long)"]}}

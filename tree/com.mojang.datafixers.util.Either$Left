@@ -1,0 +1,1 @@
+{"<init>(java.lang.Object)":{"com.mojang.datafixers.util.Either":["left(java.lang.Object)"],"com.mojang.datafixers.util.Either$Left":["mapBoth(java.util.function.Function, java.util.function.Function)"]}}

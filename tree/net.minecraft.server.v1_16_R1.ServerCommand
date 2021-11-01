@@ -1,0 +1,1 @@
+{"<init>(java.lang.String, net.minecraft.server.v1_16_R1.CommandListenerWrapper)":{"net.minecraft.server.v1_16_R1.DedicatedServer":["issueCommand(java.lang.String, net.minecraft.server.v1_16_R1.CommandListenerWrapper)","handleCommandQueue()","lambda$executeRemoteCommand$3(java.lang.String, org.bukkit.craftbukkit.v1_16_R1.util.Waitable[])"]}}

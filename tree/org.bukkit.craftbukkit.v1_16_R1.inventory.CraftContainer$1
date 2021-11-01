@@ -1,0 +1,1 @@
+{"getPlayer()":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftContainer$1":["getBottomInventory()"]},"<init>(org.bukkit.inventory.Inventory, net.minecraft.server.v1_16_R1.EntityHuman)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftContainer":["<init>(org.bukkit.inventory.Inventory, net.minecraft.server.v1_16_R1.EntityHuman, int)"]}}

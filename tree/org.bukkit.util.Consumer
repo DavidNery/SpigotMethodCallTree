@@ -1,0 +1,1 @@
+{"accept(java.lang.Object)":{"org.bukkit.craftbukkit.v1_16_R1.CraftWorld":["addEntity(net.minecraft.server.v1_16_R1.Entity, org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason, org.bukkit.util.Consumer)"]}}

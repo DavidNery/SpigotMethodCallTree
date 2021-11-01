@@ -1,0 +1,1 @@
+{"reset()":{"org.bukkit.craftbukkit.v1_16_R1.util.UnsafeList":["iterator()"]},"<init>(org.bukkit.craftbukkit.v1_16_R1.util.UnsafeList)":{"org.bukkit.craftbukkit.v1_16_R1.util.UnsafeList":["<init>(int, int)","clone()","iterator()","iterator()","readObject(java.io.ObjectInputStream)"]}}

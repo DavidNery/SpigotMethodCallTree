@@ -1,0 +1,1 @@
+{"<init>(float, int)":{"net.minecraft.server.v1_16_R1.PiglinAI":["b()"],"net.minecraft.server.v1_16_R1.HoglinAI":["a()"],"net.minecraft.server.v1_16_R1.EntityZoglin":["b(net.minecraft.server.v1_16_R1.BehaviorController)"],"net.minecraft.server.v1_16_R1.Behaviors":["a(float)","e(net.minecraft.server.v1_16_R1.VillagerProfession, float)"]}}

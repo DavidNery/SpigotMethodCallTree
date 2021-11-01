@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, java.lang.String)":{"org.bukkit.event.player.PlayerRegisterChannelEvent":["<init>(org.bukkit.entity.Player, java.lang.String)"],"org.bukkit.event.player.PlayerUnregisterChannelEvent":["<init>(org.bukkit.entity.Player, java.lang.String)"]}}

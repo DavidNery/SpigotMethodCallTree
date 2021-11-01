@@ -1,0 +1,1 @@
+{"getString()":{"net.minecraft.server.v1_16_R1.ChatComponentUtils":["a()"],"com.mojang.brigadier.exceptions.CommandSyntaxException":["<init>()","<init>()","getMessage()"],"com.mojang.brigadier.exceptions.SimpleCommandExceptionType":["toString()"]}}

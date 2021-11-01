@@ -1,0 +1,1 @@
+{"<init>()":{"net.minecraft.server.v1_16_R1.BlockSmoker":["createTile()"],"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftMetaBlockState":["getBlockState()"],"org.bukkit.craftbukkit.v1_16_R1.inventory.util.CraftTileInventoryConverter$Smoker":["getTileEntity()"]}}

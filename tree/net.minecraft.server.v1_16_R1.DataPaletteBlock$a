@@ -1,0 +1,1 @@
+{"accept(java.lang.Object, int)":{"net.minecraft.server.v1_16_R1.DataPaletteBlock":["lambda$forEachLocation$3(net.minecraft.server.v1_16_R1.DataPaletteBlock$a, int, int)","lambda$a$2(net.minecraft.server.v1_16_R1.DataPaletteBlock$a, it.unimi.dsi.fastutil.ints.Int2IntMap$Entry)"]}}

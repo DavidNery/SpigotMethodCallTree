@@ -1,0 +1,1 @@
+{"<init>(java.lang.String)":{"org.bukkit.plugin.messaging.StandardMessenger":["registerOutgoingPluginChannel(org.bukkit.plugin.Plugin, java.lang.String)","registerIncomingPluginChannel(org.bukkit.plugin.Plugin, java.lang.String, org.bukkit.plugin.messaging.PluginMessageListener)"],"org.bukkit.plugin.messaging.ReservedChannelException":["<init>()"]}}

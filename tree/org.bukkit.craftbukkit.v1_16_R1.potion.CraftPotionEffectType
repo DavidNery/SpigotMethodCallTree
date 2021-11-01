@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.MobEffectList)":{"net.minecraft.server.v1_16_R1.MobEffects":["<clinit>()"]},"getId()":{"org.bukkit.craftbukkit.v1_16_R1.potion.CraftPotionEffectType":["getName()","getName()"]}}

@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, org.bukkit.NamespacedKey)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["handlePlayerRecipeListUpdateEvent(net.minecraft.server.v1_16_R1.EntityHuman, net.minecraft.server.v1_16_R1.MinecraftKey)"]},"isCancelled()":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["handlePlayerRecipeListUpdateEvent()"]}}

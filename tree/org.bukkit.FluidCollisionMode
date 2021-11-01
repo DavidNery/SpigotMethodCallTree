@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.CraftFluidCollisionMode$1":["<clinit>()"]},"<init>(java.lang.String, int)":{"org.bukkit.FluidCollisionMode":["<clinit>()","<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.CraftFluidCollisionMode$1":["<clinit>()","<clinit>()","<clinit>()"],"org.bukkit.craftbukkit.v1_16_R1.CraftFluidCollisionMode":["toNMS()"]}}

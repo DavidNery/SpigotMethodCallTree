@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, org.bukkit.entity.Item)":{"net.minecraft.server.v1_16_R1.EntityHuman":["a(net.minecraft.server.v1_16_R1.ItemStack, boolean, boolean)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityHuman":["a()"]}}

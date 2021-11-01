@@ -1,0 +1,1 @@
+{"<init>()":{"org.bukkit.entity.Entity$Spigot":["<init>()"],"org.bukkit.craftbukkit.v1_16_R1.command.ServerCommandSender$1":["<init>()"]},"sendMessage(net.md_5.bungee.api.chat.BaseComponent[])":{"org.bukkit.command.defaults.PluginsCommand":["execute(org.bukkit.command.CommandSender, java.lang.String, java.lang.String[])"]}}

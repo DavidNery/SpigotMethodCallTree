@@ -1,0 +1,1 @@
+{"setTopicsCollection(java.util.Collection)":{"org.bukkit.craftbukkit.v1_16_R1.help.CustomIndexHelpTopic":["getFullText(org.bukkit.command.CommandSender)"]},"<init>(org.bukkit.help.HelpMap, java.lang.String, java.lang.String, java.lang.String, java.util.List, java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.help.HelpYamlReader":["getIndexTopics()"]}}

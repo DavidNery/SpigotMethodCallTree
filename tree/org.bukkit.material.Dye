@@ -1,0 +1,1 @@
+{"setData(byte)":{"org.bukkit.material.Dye":["setColor(org.bukkit.DyeColor)"]},"getColor()":{"org.bukkit.material.Dye":["toString()"]},"getData()":{"org.bukkit.material.Dye":["getColor()","toString()"]},"clone()":{"org.bukkit.material.Dye":["clone()","clone()"]}}

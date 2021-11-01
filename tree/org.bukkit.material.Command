@@ -1,0 +1,1 @@
+{"setData(byte)":{"org.bukkit.material.Command":["setPowered(boolean)"]},"getData()":{"org.bukkit.material.Command":["isPowered()","setPowered()","setPowered()"]},"clone()":{"org.bukkit.material.Command":["clone()","clone()"]},"isPowered()":{"org.bukkit.material.Command":["toString()"]}}

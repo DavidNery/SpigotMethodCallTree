@@ -1,0 +1,1 @@
+{"fromMemoryKey(org.bukkit.entity.memory.MemoryKey)":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftLivingEntity":["getMemory(org.bukkit.entity.memory.MemoryKey)","setMemory(org.bukkit.entity.memory.MemoryKey, java.lang.Object)"]}}

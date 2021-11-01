@@ -1,0 +1,1 @@
+{"b()":{"net.minecraft.server.v1_16_R1.ResourcePackLoader":["<init>()"]},"a()":{"net.minecraft.server.v1_16_R1.ResourcePackLoader":["<init>()"]},"<init>(net.minecraft.server.v1_16_R1.IChatBaseComponent, int)":{"net.minecraft.server.v1_16_R1.ResourcePackLoader":["<clinit>()"],"net.minecraft.server.v1_16_R1.ResourcePackInfoDeserializer":["a(com.google.gson.JsonObject)"]}}

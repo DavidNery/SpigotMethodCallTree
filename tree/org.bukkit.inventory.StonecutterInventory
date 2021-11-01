@@ -1,0 +1,1 @@
+{"getItem(int)":{"org.bukkit.inventory.StonecutterInventory":["getInputItem()","getResult()"]},"setItem(int, org.bukkit.inventory.ItemStack)":{"org.bukkit.inventory.StonecutterInventory":["setInputItem(org.bukkit.inventory.ItemStack)","setResult(org.bukkit.inventory.ItemStack)"]}}

@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.optics.profunctors.TraversalP, com.mojang.datafixers.kinds.Traversable)":{"com.mojang.datafixers.optics.profunctors.TraversalP":["traverse(com.mojang.datafixers.kinds.Traversable, com.mojang.datafixers.kinds.App2)"]}}

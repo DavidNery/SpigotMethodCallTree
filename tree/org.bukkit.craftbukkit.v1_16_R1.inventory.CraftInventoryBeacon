@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.IInventory)":{"net.minecraft.server.v1_16_R1.ContainerBeacon":["getBukkitView()"]},"getItem(int)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftInventoryBeacon":["getItem()"]},"setItem(int, org.bukkit.inventory.ItemStack)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftInventoryBeacon":["setItem(org.bukkit.inventory.ItemStack)"]}}

@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, java.lang.String, java.lang.String)":{"net.minecraft.server.v1_16_R1.PlayerConnection":["disconnect(java.lang.String)"]},"getReason()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["disconnect()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["disconnect()"]}}

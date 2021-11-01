@@ -1,0 +1,1 @@
+{"<init>(int, float)":{"net.minecraft.server.v1_16_R1.LootItemFunctionApplyBonus":["a(net.minecraft.server.v1_16_R1.Enchantment, int, float, net.minecraft.server.v1_16_R1.LootItemCondition[])"],"net.minecraft.server.v1_16_R1.LootItemFunctionApplyBonus$a":["a(com.google.gson.JsonObject, com.google.gson.JsonDeserializationContext)"]}}

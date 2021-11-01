@@ -1,0 +1,1 @@
+{"<init>(long, java.util.function.IntSupplier, java.lang.Runnable, java.lang.Runnable, boolean)":{"net.minecraft.server.v1_16_R1.LightEngineThreaded$LightQueue":["addChunk(long, java.util.function.IntSupplier, java.lang.Runnable, java.lang.Runnable)","add(long, java.util.function.IntSupplier, net.minecraft.server.v1_16_R1.LightEngineThreaded$Update, java.lang.Runnable)"]}}

@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.Raid, org.bukkit.World, org.bukkit.entity.Raider, java.util.List)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callRaidSpawnWaveEvent(net.minecraft.server.v1_16_R1.Raid, net.minecraft.server.v1_16_R1.EntityRaider, java.util.List)"]}}

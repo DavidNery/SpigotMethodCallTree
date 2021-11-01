@@ -1,0 +1,1 @@
+{"a(long)":{"net.minecraft.server.v1_16_R1.DimensionManager":["e(long)"],"net.minecraft.server.v1_16_R1.WorldChunkManagerMultiNoise":["a(com.mojang.datafixers.util.Pair)"]},"<init>(net.minecraft.server.v1_16_R1.MinecraftKey, java.util.function.LongFunction)":{"net.minecraft.server.v1_16_R1.WorldChunkManagerMultiNoise$a":["<clinit>()"]}}

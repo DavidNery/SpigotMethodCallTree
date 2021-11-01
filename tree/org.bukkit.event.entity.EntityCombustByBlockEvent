@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.block.Block, org.bukkit.entity.Entity, int)":{"net.minecraft.server.v1_16_R1.Entity":["burnFromLava()"],"net.minecraft.server.v1_16_R1.BlockFireAbstract":["a(net.minecraft.server.v1_16_R1.IBlockData, net.minecraft.server.v1_16_R1.World, net.minecraft.server.v1_16_R1.BlockPosition, net.minecraft.server.v1_16_R1.Entity)"]}}

@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityBee, net.minecraft.server.v1_16_R1.EntityInsentient, int, boolean)":{"net.minecraft.server.v1_16_R1.EntityBee":["<init>(net.minecraft.server.v1_16_R1.EntityTypes, net.minecraft.server.v1_16_R1.World)"]},"getEntity()":{"net.minecraft.server.v1_16_R1.EntityBee$1":["tick()","tick()"]}}

@@ -1,0 +1,1 @@
+{"<init>(java.lang.String, int)":{"net.minecraft.server.v1_16_R1.GenLayerZoomerBiome":["<clinit>()"]},"a(long, int, int, int, net.minecraft.server.v1_16_R1.BiomeManager$Provider)":{"net.minecraft.server.v1_16_R1.SpawnerCreature":["b(net.minecraft.server.v1_16_R1.BlockPosition, net.minecraft.server.v1_16_R1.IChunkAccess)"]}}

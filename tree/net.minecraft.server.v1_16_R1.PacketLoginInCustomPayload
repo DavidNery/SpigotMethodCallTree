@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.PacketLoginInListener)":{"net.minecraft.server.v1_16_R1.PacketLoginInCustomPayload":["a(net.minecraft.server.v1_16_R1.PacketListener)"]},"getId()":{"net.minecraft.server.v1_16_R1.LoginListener":["a()"]},"getBuf()":{"net.minecraft.server.v1_16_R1.LoginListener":["a()"]}}

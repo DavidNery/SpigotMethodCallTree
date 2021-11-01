@@ -1,0 +1,1 @@
+{"b()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]},"d()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]},"c()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]},"a(net.minecraft.server.v1_16_R1.PacketListenerPlayIn)":{"net.minecraft.server.v1_16_R1.PacketPlayInBlockDig":["a(net.minecraft.server.v1_16_R1.PacketListener)"]}}

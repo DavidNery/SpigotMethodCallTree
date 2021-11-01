@@ -1,0 +1,1 @@
+{"getAuthenticationService()":{"com.mojang.authlib.minecraft.HttpMinecraftSessionService":["getAuthenticationService()"]},"<init>(com.mojang.authlib.AuthenticationService)":{"com.mojang.authlib.minecraft.HttpMinecraftSessionService":["<init>(com.mojang.authlib.HttpAuthenticationService)"]}}

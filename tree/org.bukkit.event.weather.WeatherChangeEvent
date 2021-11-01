@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.World, boolean)":{"net.minecraft.server.v1_16_R1.WorldDataServer":["setStorm(boolean)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.WorldDataServer":["setStorm()"]}}

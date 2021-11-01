@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.plugin.RegisteredServiceProvider)":{"org.bukkit.plugin.SimpleServicesManager":["unregisterAll(org.bukkit.plugin.Plugin)","unregister(java.lang.Class, java.lang.Object)","unregister(java.lang.Object)"]}}

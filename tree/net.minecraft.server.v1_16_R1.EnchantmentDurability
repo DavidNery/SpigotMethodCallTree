@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.ItemStack, int, java.util.Random)":{"net.minecraft.server.v1_16_R1.ItemStack":["isDamaged(int, java.util.Random, net.minecraft.server.v1_16_R1.EntityPlayer)"]},"<init>(net.minecraft.server.v1_16_R1.Enchantment$Rarity, net.minecraft.server.v1_16_R1.EnumItemSlot[])":{"net.minecraft.server.v1_16_R1.Enchantments":["<clinit>()"]}}

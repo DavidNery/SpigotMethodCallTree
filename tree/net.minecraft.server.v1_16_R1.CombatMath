@@ -1,0 +1,1 @@
+{"a(float, float)":{"net.minecraft.server.v1_16_R1.EntityLiving":["applyMagicModifier(net.minecraft.server.v1_16_R1.DamageSource, float)"]},"a(float, float, float)":{"net.minecraft.server.v1_16_R1.EntityLiving":["applyArmorModifier(net.minecraft.server.v1_16_R1.DamageSource, float)"]}}

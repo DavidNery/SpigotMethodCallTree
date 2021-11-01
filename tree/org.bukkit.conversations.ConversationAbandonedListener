@@ -1,0 +1,1 @@
+{"conversationAbandoned(org.bukkit.conversations.ConversationAbandonedEvent)":{"org.bukkit.conversations.Conversation":["abandon(org.bukkit.conversations.ConversationAbandonedEvent)"]}}

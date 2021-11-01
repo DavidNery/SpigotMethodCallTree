@@ -1,0 +1,1 @@
+{"<init>(int)":{"net.minecraft.server.v1_16_R1.MobSpawnerData":["<init>()","<init>(int, net.minecraft.server.v1_16_R1.NBTTagCompound)"],"net.minecraft.server.v1_16_R1.BiomeBase$BiomeMeta":["<init>(net.minecraft.server.v1_16_R1.EntityTypes, int, int, int)"],"net.minecraft.server.v1_16_R1.WeightedRandomEnchant":["<init>(net.minecraft.server.v1_16_R1.Enchantment, int)"]}}

@@ -1,0 +1,1 @@
+{"<init>(com.mojang.serialization.MapCodec, com.mojang.serialization.MapCodec, java.util.function.Function, java.util.function.BiFunction)":{"com.mojang.serialization.MapCodec":["dependent(com.mojang.serialization.MapCodec, java.util.function.Function, java.util.function.BiFunction)"]}}

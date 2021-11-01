@@ -1,0 +1,1 @@
+{"onPluginMessageReceived(java.lang.String, org.bukkit.entity.Player, byte[])":{"org.bukkit.plugin.messaging.StandardMessenger":["dispatchIncomingMessage(org.bukkit.entity.Player, java.lang.String, byte[])"]}}

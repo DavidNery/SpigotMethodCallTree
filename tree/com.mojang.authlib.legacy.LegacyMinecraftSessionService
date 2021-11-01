@@ -1,0 +1,1 @@
+{"<init>(com.mojang.authlib.legacy.LegacyAuthenticationService)":{"com.mojang.authlib.legacy.LegacyAuthenticationService":["createMinecraftSessionService()"]},"getAuthenticationService()":{"com.mojang.authlib.legacy.LegacyMinecraftSessionService":["joinServer()","hasJoinedServer()","getAuthenticationService()","getAuthenticationService()"]}}

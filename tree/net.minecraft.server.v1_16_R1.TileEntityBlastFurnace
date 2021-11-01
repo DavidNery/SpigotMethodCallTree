@@ -1,0 +1,1 @@
+{"<init>()":{"net.minecraft.server.v1_16_R1.BlockBlastFurnace":["createTile()"],"org.bukkit.craftbukkit.v1_16_R1.inventory.util.CraftTileInventoryConverter$BlastFurnace":["getTileEntity()"],"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftMetaBlockState":["getBlockState()"]}}

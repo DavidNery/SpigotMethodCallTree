@@ -1,0 +1,1 @@
+{"get(com.google.gson.JsonElement)":{"com.mojang.serialization.JsonOps$1":["get(java.lang.Object)"]},"get(java.lang.String)":{"com.mojang.serialization.JsonOps$1":["get(java.lang.String)"]},"<init>(com.mojang.serialization.JsonOps, com.google.gson.JsonObject)":{"com.mojang.serialization.JsonOps":["getMap(com.google.gson.JsonElement)"]}}

@@ -1,0 +1,1 @@
+{"create(net.minecraft.server.v1_16_R1.LootEntryAbstract[], net.minecraft.server.v1_16_R1.LootItemCondition[])":{"net.minecraft.server.v1_16_R1.LootEntryChildrenAbstract$1":["deserializeType(com.google.gson.JsonObject, com.google.gson.JsonDeserializationContext, net.minecraft.server.v1_16_R1.LootItemCondition[])"]}}

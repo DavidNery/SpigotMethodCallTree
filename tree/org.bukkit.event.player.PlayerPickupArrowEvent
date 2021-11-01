@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, org.bukkit.entity.Item, org.bukkit.entity.AbstractArrow)":{"net.minecraft.server.v1_16_R1.EntityArrow":["pickup(net.minecraft.server.v1_16_R1.EntityHuman)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityArrow":["pickup()"]}}

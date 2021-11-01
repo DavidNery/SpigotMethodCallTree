@@ -1,0 +1,1 @@
+{"<init>(int)":{"net.minecraft.server.v1_16_R1.NBTTagType":["a(int)"]},"b(java.io.DataInput, int, net.minecraft.server.v1_16_R1.NBTReadLimiter)":{"net.minecraft.server.v1_16_R1.NBTTagType$1":["b(java.io.DataInput, int, net.minecraft.server.v1_16_R1.NBTReadLimiter)"]}}

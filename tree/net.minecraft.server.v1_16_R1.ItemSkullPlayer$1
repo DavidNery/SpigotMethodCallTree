@@ -1,0 +1,1 @@
+{"apply(com.mojang.authlib.GameProfile)":{"net.minecraft.server.v1_16_R1.ItemSkullPlayer$1":["apply(java.lang.Object)"]},"<init>(net.minecraft.server.v1_16_R1.ItemSkullPlayer, net.minecraft.server.v1_16_R1.NBTTagCompound)":{"net.minecraft.server.v1_16_R1.ItemSkullPlayer":["b(net.minecraft.server.v1_16_R1.NBTTagCompound)"]}}

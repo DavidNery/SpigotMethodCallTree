@@ -1,0 +1,1 @@
+{"<init>(long)":{"net.minecraft.server.v1_16_R1.PacketStatusListener":["a(net.minecraft.server.v1_16_R1.PacketStatusInPing)"]},"a(net.minecraft.server.v1_16_R1.PacketStatusOutListener)":{"net.minecraft.server.v1_16_R1.PacketStatusOutPong":["a(net.minecraft.server.v1_16_R1.PacketListener)"]}}

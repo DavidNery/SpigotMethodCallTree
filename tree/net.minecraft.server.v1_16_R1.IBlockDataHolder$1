@@ -1,0 +1,1 @@
+{"<init>()":{"net.minecraft.server.v1_16_R1.IBlockDataHolder":["<clinit>()"]},"apply(java.util.Map$Entry)":{"net.minecraft.server.v1_16_R1.IBlockDataHolder$1":["apply(java.lang.Object)"]},"a(net.minecraft.server.v1_16_R1.IBlockState, java.lang.Comparable)":{"net.minecraft.server.v1_16_R1.IBlockDataHolder$1":["apply(java.util.Map$Entry)"]}}

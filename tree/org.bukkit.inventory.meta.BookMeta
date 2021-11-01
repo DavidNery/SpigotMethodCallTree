@@ -1,0 +1,1 @@
+{"clone()":{"org.bukkit.inventory.meta.BookMeta":["clone()"],"org.bukkit.event.player.PlayerEditBookEvent":["getPreviousBookMeta()","getNewBookMeta()","setNewBookMeta()"]}}

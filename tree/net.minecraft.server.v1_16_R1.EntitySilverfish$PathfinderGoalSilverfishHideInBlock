@@ -1,0 +1,1 @@
+{"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.EntitySilverfish$PathfinderGoalSilverfishHideInBlock":["<init>(net.minecraft.server.v1_16_R1.EntitySilverfish)"]},"<init>(net.minecraft.server.v1_16_R1.EntitySilverfish)":{"net.minecraft.server.v1_16_R1.EntitySilverfish":["initPathfinder()"]}}

@@ -1,0 +1,1 @@
+{"getInventory()":{"org.bukkit.block.DoubleChest":["getLocation()"]},"getLocation()":{"org.bukkit.block.DoubleChest":["getWorld()","getX()","getY()","getZ()"]},"<init>(org.bukkit.inventory.DoubleChestInventory)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftInventoryDoubleChest":["getHolder()"]}}

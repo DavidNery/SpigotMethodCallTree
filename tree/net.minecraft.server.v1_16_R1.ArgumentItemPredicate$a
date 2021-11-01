@@ -1,0 +1,1 @@
+{"test(net.minecraft.server.v1_16_R1.ItemStack)":{"net.minecraft.server.v1_16_R1.ArgumentItemPredicate$a":["test(java.lang.Object)"]},"<init>(net.minecraft.server.v1_16_R1.Item, net.minecraft.server.v1_16_R1.NBTTagCompound)":{"net.minecraft.server.v1_16_R1.ArgumentItemPredicate":["parse(com.mojang.brigadier.StringReader)"]}}

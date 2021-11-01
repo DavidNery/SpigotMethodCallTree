@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.PacketListenerPlayOut)":{"net.minecraft.server.v1_16_R1.PacketPlayOutTransaction":["a(net.minecraft.server.v1_16_R1.PacketListener)"]},"<init>(int, short, boolean)":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a(net.minecraft.server.v1_16_R1.PacketPlayInWindowClick)","a(net.minecraft.server.v1_16_R1.PacketPlayInWindowClick)"]}}

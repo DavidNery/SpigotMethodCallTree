@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.Raid, org.bukkit.World, org.bukkit.event.raid.RaidStopEvent$Reason)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callRaidStopEvent(net.minecraft.server.v1_16_R1.Raid, org.bukkit.event.raid.RaidStopEvent$Reason)"]}}

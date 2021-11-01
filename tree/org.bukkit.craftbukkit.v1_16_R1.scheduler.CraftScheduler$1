@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler)":{"org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler":["<init>(boolean)"]},"compare(org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftTask, org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftTask)":{"org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler$1":["compare(java.lang.Object, java.lang.Object)"]}}

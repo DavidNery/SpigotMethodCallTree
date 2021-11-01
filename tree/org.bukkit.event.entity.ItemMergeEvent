@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Item, org.bukkit.entity.Item)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callItemMergeEvent(net.minecraft.server.v1_16_R1.EntityItem, net.minecraft.server.v1_16_R1.EntityItem)"]},"getEntity()":{"org.bukkit.event.entity.ItemMergeEvent":["getEntity()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityItem":["a()"]}}

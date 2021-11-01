@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityTypes, java.util.UUID, net.minecraft.server.v1_16_R1.IChatBaseComponent)":{"net.minecraft.server.v1_16_R1.Entity":["ca()"],"net.minecraft.server.v1_16_R1.ChatHoverable$b":["a(com.google.gson.JsonElement)","a(net.minecraft.server.v1_16_R1.IChatBaseComponent)"]}}

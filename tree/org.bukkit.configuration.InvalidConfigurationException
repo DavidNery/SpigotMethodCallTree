@@ -1,0 +1,1 @@
+{"<init>(java.lang.String)":{"org.bukkit.configuration.file.YamlConfiguration":["loadFromString(java.lang.String)"]},"<init>(java.lang.Throwable)":{"org.bukkit.configuration.file.YamlConfiguration":["loadFromString(java.lang.String)"]}}

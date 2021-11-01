@@ -1,0 +1,1 @@
+{"decode(io.netty.channel.ChannelHandlerContext, io.netty.buffer.ByteBuf, java.util.List)":{"net.minecraft.server.v1_16_R1.PacketDecrypter":["decode(io.netty.channel.ChannelHandlerContext, java.lang.Object, java.util.List)"]},"<init>(javax.crypto.Cipher)":{"net.minecraft.server.v1_16_R1.NetworkManager":["a(javax.crypto.SecretKey)"]}}

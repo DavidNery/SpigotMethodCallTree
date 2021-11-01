@@ -1,0 +1,1 @@
+{"getDamage()":{"org.bukkit.inventory.ItemStack":["getDurability()"]},"setDamage(int)":{"org.bukkit.inventory.ItemStack":["setDurability(short)"]}}

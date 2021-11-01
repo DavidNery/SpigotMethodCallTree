@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.AreaFactory)":{"net.minecraft.server.v1_16_R1.GenLayers":["a(long, boolean, int, int)"]},"a(int, int)":{"net.minecraft.server.v1_16_R1.WorldChunkManagerOverworld":["getBiome(int, int, int)"]},"a(int)":{"net.minecraft.server.v1_16_R1.GenLayer":["a(int, int)"]}}

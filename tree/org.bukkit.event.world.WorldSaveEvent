@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.World)":{"net.minecraft.server.v1_16_R1.WorldServer":["saveIncrementally(boolean)","save(net.minecraft.server.v1_16_R1.IProgressUpdate, boolean, boolean)"]}}

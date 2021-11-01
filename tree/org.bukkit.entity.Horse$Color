@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftHorse":["getColor()"]},"<init>(java.lang.String, int)":{"org.bukkit.entity.Horse$Color":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftHorse":["setColor()"]}}

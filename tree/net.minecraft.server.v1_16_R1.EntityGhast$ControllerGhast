@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityGhast)":{"net.minecraft.server.v1_16_R1.EntityGhast":["<init>(net.minecraft.server.v1_16_R1.EntityTypes, net.minecraft.server.v1_16_R1.World)"]},"a(net.minecraft.server.v1_16_R1.Vec3D, int)":{"net.minecraft.server.v1_16_R1.EntityGhast$ControllerGhast":["a()"]}}

@@ -1,0 +1,1 @@
+{"iterator()":{"org.bukkit.event.server.ServerListPingEvent":["getNumPlayers()"]},"<init>(java.net.InetAddress, java.lang.String, int, int)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callServerListPingEvent(org.bukkit.Server, java.net.InetAddress, java.lang.String, int, int)"]}}

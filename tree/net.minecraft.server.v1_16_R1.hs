@@ -1,0 +1,1 @@
+{"<init>()":{"net.minecraft.server.v1_16_R1.hn":["<init>()"]},"accept(java.util.function.Consumer)":{"net.minecraft.server.v1_16_R1.hs":["accept(java.lang.Object)"]}}

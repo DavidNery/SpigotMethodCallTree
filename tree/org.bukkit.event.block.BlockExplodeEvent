@@ -1,0 +1,1 @@
+{"getYield()":{"net.minecraft.server.v1_16_R1.Explosion":["a()"]},"<init>(org.bukkit.block.Block, java.util.List, float)":{"net.minecraft.server.v1_16_R1.Explosion":["a(boolean)"]},"blockList()":{"net.minecraft.server.v1_16_R1.Explosion":["a()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.Explosion":["a()"]}}

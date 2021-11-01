@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.command.CommandSender, java.lang.String, java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["dispatchCommand(org.bukkit.command.CommandSender, java.lang.String)"]},"getMessage()":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["dispatchCommand()","dispatchCommand()"]}}

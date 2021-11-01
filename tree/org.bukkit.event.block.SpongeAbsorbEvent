@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.block.Block, java.util.List)":{"net.minecraft.server.v1_16_R1.BlockSponge":["b(net.minecraft.server.v1_16_R1.World, net.minecraft.server.v1_16_R1.BlockPosition)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.BlockSponge":["b()"]}}

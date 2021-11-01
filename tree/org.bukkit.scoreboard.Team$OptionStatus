@@ -1,0 +1,1 @@
+{"values()":{"org.bukkit.craftbukkit.v1_16_R1.scoreboard.CraftTeam":["getOption()","getOption()","getOption()"]},"<init>(java.lang.String, int)":{"org.bukkit.scoreboard.Team$OptionStatus":["<clinit>()","<clinit>()","<clinit>()","<clinit>()"]},"ordinal()":{"org.bukkit.craftbukkit.v1_16_R1.scoreboard.CraftTeam":["setOption()","setOption()","setOption()"]}}

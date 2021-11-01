@@ -1,0 +1,1 @@
+{"a()":{"net.minecraft.server.v1_16_R1.WorldServer":["getForceLoadedChunks()","setForceLoaded()","setForceLoaded()"],"net.minecraft.server.v1_16_R1.MinecraftServer":["loadSpawn()"]},"a(boolean)":{"net.minecraft.server.v1_16_R1.WorldServer":["setForceLoaded(int, int, boolean)"]}}

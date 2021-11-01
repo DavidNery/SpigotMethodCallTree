@@ -1,0 +1,1 @@
+{"valueOf(java.lang.String)":{"org.bukkit.event.player.AsyncPlayerPreLoginEvent$Result":["old()"]},"name()":{"org.bukkit.event.player.AsyncPlayerPreLoginEvent":["setResult()","disallow()"]},"<init>(java.lang.String, int)":{"org.bukkit.event.player.PlayerPreLoginEvent$Result":["<clinit>()","<clinit>()","<clinit>()","<clinit>()","<clinit>()"]}}

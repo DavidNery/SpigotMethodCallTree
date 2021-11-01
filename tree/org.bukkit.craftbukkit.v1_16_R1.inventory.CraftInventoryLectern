@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.IInventory)":{"net.minecraft.server.v1_16_R1.ContainerLectern":["getBukkitView()"],"org.bukkit.craftbukkit.v1_16_R1.block.CraftLectern":["getSnapshotInventory()","getInventory()"]},"getHolder()":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftInventoryLectern":["getHolder()"],"net.minecraft.server.v1_16_R1.ContainerLectern":["a()"]}}

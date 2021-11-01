@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.optics.Traversal$Instance, java.util.function.Function, com.mojang.datafixers.kinds.App2, java.util.function.Function)":{"com.mojang.datafixers.optics.Traversal$Instance":["lambda$dimap$0(java.util.function.Function, java.util.function.Function, com.mojang.datafixers.kinds.App2)"]}}

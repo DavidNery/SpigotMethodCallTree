@@ -1,0 +1,1 @@
+{"<init>(java.lang.String, net.minecraft.server.v1_16_R1.IpBanEntry, net.minecraft.server.v1_16_R1.IpBanList)":{"org.bukkit.craftbukkit.v1_16_R1.CraftIpBanList":["getBanEntry(java.lang.String)","addBan(java.lang.String, java.lang.String, java.util.Date, java.lang.String)","getBanEntries()"]}}

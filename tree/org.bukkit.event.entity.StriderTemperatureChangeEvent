@@ -1,0 +1,1 @@
+{"getEntity()":{"org.bukkit.event.entity.StriderTemperatureChangeEvent":["getEntity()"]},"<init>(org.bukkit.entity.Strider, boolean)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callStriderTemperatureChangeEvent(net.minecraft.server.v1_16_R1.EntityStrider, boolean)"]}}

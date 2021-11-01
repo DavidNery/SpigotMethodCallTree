@@ -1,0 +1,1 @@
+{"parse(com.mojang.brigadier.StringReader)":{"net.minecraft.server.v1_16_R1.ArgumentTime":["parse(com.mojang.brigadier.StringReader)"]},"a()":{"net.minecraft.server.v1_16_R1.CommandSchedule":["a()"],"net.minecraft.server.v1_16_R1.CommandTime":["a()","a()"]},"<init>()":{"net.minecraft.server.v1_16_R1.ArgumentTime":["a()"]}}

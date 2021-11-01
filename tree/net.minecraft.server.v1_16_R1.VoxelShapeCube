@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.VoxelShapeDiscrete)":{"net.minecraft.server.v1_16_R1.VoxelShapes":["a(net.minecraft.server.v1_16_R1.AxisAlignedBB)","b(net.minecraft.server.v1_16_R1.VoxelShape, net.minecraft.server.v1_16_R1.VoxelShape, net.minecraft.server.v1_16_R1.OperatorBoolean)","lambda$static$0()"]}}

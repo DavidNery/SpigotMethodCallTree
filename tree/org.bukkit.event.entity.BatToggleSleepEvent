@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Bat, boolean)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["handleBatToggleSleepEvent(net.minecraft.server.v1_16_R1.Entity, boolean)"]},"isCancelled()":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["handleBatToggleSleepEvent()"]}}

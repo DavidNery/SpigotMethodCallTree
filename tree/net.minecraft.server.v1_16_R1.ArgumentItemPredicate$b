@@ -1,0 +1,1 @@
+{"create(com.mojang.brigadier.context.CommandContext)":{"net.minecraft.server.v1_16_R1.ArgumentItemPredicate":["a(com.mojang.brigadier.context.CommandContext, java.lang.String)"]}}

@@ -1,0 +1,1 @@
+{"getValue()":{"org.bukkit.permissions.PermissibleBase":["hasPermission()","hasPermission()"]},"<init>(org.bukkit.permissions.Permissible, java.lang.String, org.bukkit.permissions.PermissionAttachment, boolean)":{"org.bukkit.permissions.PermissibleBase":["recalculatePermissions()","calculateChildPermissions(java.util.Map, boolean, org.bukkit.permissions.PermissionAttachment)"]}}

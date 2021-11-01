@@ -1,0 +1,1 @@
+{"canShear()":{"net.minecraft.server.v1_16_R1.DispenseBehaviorShears":["b()"]},"shear(net.minecraft.server.v1_16_R1.SoundCategory)":{"net.minecraft.server.v1_16_R1.DispenseBehaviorShears":["b(net.minecraft.server.v1_16_R1.WorldServer, net.minecraft.server.v1_16_R1.BlockPosition, org.bukkit.block.Block, org.bukkit.craftbukkit.v1_16_R1.inventory.CraftItemStack)"]}}

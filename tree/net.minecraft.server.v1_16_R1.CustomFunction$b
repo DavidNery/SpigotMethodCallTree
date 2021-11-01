@@ -1,0 +1,1 @@
+{"<init>(com.mojang.brigadier.ParseResults)":{"net.minecraft.server.v1_16_R1.CustomFunction":["a(net.minecraft.server.v1_16_R1.MinecraftKey, com.mojang.brigadier.CommandDispatcher, net.minecraft.server.v1_16_R1.CommandListenerWrapper, java.util.List)"]}}

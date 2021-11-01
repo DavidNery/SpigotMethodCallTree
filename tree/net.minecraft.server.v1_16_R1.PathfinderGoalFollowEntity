@@ -1,0 +1,1 @@
+{"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.PathfinderGoalFollowEntity":["<init>(net.minecraft.server.v1_16_R1.EntityInsentient, double, float, float)"]},"<init>(net.minecraft.server.v1_16_R1.EntityInsentient, double, float, float)":{"net.minecraft.server.v1_16_R1.EntityParrot":["initPathfinder()"]}}

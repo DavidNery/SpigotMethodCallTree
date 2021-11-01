@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.types.templates.Product, com.mojang.datafixers.optics.Traversal, com.mojang.datafixers.optics.Traversal)":{"com.mojang.datafixers.types.templates.Product":["cap(com.mojang.datafixers.FamilyOptic, com.mojang.datafixers.FamilyOptic, int)"]}}

@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.functions.PointFreeRule, java.util.function.Supplier)":{"com.mojang.datafixers.functions.PointFreeRule":["orElse(com.mojang.datafixers.functions.PointFreeRule, com.mojang.datafixers.functions.PointFreeRule)","orElseStrict(com.mojang.datafixers.functions.PointFreeRule, java.util.function.Supplier)"]}}

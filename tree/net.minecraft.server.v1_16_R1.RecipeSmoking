@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.MinecraftKey, java.lang.String, net.minecraft.server.v1_16_R1.RecipeItemStack, net.minecraft.server.v1_16_R1.ItemStack, float, int)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftSmokingRecipe":["addToCraftingManager()"]}}

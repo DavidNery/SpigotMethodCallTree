@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.block.Block, org.bukkit.Instrument, org.bukkit.Note)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callNotePlayEvent(net.minecraft.server.v1_16_R1.World, net.minecraft.server.v1_16_R1.BlockPosition, net.minecraft.server.v1_16_R1.BlockPropertyInstrument, int)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.BlockNote":["play()"]}}

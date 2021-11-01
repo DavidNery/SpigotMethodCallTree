@@ -1,0 +1,1 @@
+{"run(com.mojang.brigadier.context.CommandContext)":{"com.mojang.brigadier.CommandDispatcher":["execute(com.mojang.brigadier.ParseResults)"]}}

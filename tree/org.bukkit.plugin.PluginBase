@@ -1,0 +1,1 @@
+{"getDescription()":{"org.bukkit.plugin.PluginBase":["getName()"]},"getName()":{"org.bukkit.plugin.PluginBase":["hashCode()","equals()"]},"<init>()":{"org.bukkit.craftbukkit.v1_16_R1.scheduler.MinecraftInternalPlugin":["<init>()"],"org.bukkit.plugin.java.JavaPlugin":["<init>()","<init>()"]}}

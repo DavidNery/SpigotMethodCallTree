@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.optics.profunctors.Cocartesian)":{"com.mojang.datafixers.optics.profunctors.Cocartesian":["toFP()"]},"cap(com.mojang.datafixers.kinds.CocartesianLike, com.mojang.datafixers.kinds.App2)":{"com.mojang.datafixers.optics.profunctors.Cocartesian$1":["distribute(com.mojang.datafixers.kinds.App, com.mojang.datafixers.kinds.App2)"]}}

@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.types.Type, com.mojang.datafixers.RewriteResult)":{"com.mojang.datafixers.TypeRewriteRule":["ifSame(com.mojang.datafixers.types.Type, com.mojang.datafixers.RewriteResult)"]}}

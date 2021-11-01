@@ -1,0 +1,1 @@
+{"<init>()":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callPlayerBedEnterEvent()"]},"apply(net.minecraft.server.v1_16_R1.EntityHuman$EnumBedResult)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory$1":["apply(java.lang.Object)"]}}

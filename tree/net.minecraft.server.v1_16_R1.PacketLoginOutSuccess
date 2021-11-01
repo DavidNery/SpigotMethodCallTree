@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.PacketLoginOutListener)":{"net.minecraft.server.v1_16_R1.PacketLoginOutSuccess":["a(net.minecraft.server.v1_16_R1.PacketListener)"]},"<init>(com.mojang.authlib.GameProfile)":{"net.minecraft.server.v1_16_R1.LoginListener":["c()"]}}

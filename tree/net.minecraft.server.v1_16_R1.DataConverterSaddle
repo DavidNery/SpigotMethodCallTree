@@ -1,0 +1,1 @@
+{"getInputSchema()":{"net.minecraft.server.v1_16_R1.DataConverterSaddle":["a()"]},"<init>(com.mojang.datafixers.schemas.Schema, boolean)":{"net.minecraft.server.v1_16_R1.DataConverterRegistry":["a(com.mojang.datafixers.DataFixerBuilder)"]}}

@@ -1,0 +1,1 @@
+{"apply(long)":{"net.minecraft.server.v1_16_R1.LightEngineStorageBlock":["d(long)"],"net.minecraft.server.v1_16_R1.LightEngineStorageArray":["b(long)","getUpdatingOptimized(long)","c(long)"],"net.minecraft.server.v1_16_R1.LightEngineStorage":["a(long, boolean)","i(long)"]}}

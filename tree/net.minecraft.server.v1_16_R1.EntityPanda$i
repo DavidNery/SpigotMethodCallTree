@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.IBlockAccess, net.minecraft.server.v1_16_R1.Entity, int, int)":{"net.minecraft.server.v1_16_R1.EntityPanda$i":["a()"]},"<init>(net.minecraft.server.v1_16_R1.EntityPanda, double)":{"net.minecraft.server.v1_16_R1.EntityPanda":["initPathfinder()"]},"g()":{"net.minecraft.server.v1_16_R1.EntityPanda$i":["a()"]}}

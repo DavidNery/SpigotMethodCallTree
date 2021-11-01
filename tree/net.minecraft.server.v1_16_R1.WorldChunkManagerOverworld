@@ -1,0 +1,1 @@
+{"<init>(long, boolean, boolean)":{"net.minecraft.server.v1_16_R1.GeneratorSettings":["a(long)","a(java.util.Properties)","a(java.util.Properties)"],"net.minecraft.server.v1_16_R1.WorldUpgraderIterator":["a(net.minecraft.server.v1_16_R1.Convertable$ConversionSession, net.minecraft.server.v1_16_R1.IProgressUpdate)"]}}

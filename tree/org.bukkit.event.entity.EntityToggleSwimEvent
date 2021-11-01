@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.LivingEntity, boolean)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callToggleSwimEvent(net.minecraft.server.v1_16_R1.EntityLiving, boolean)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.Entity":["setSwimming()"]}}

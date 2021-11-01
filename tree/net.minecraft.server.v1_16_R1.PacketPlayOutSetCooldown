@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.PacketListenerPlayOut)":{"net.minecraft.server.v1_16_R1.PacketPlayOutSetCooldown":["a(net.minecraft.server.v1_16_R1.PacketListener)"]},"<init>(net.minecraft.server.v1_16_R1.Item, int)":{"net.minecraft.server.v1_16_R1.ItemCooldownPlayer":["b(net.minecraft.server.v1_16_R1.Item, int)","c(net.minecraft.server.v1_16_R1.Item)"]}}

@@ -1,0 +1,1 @@
+{"setData(byte)":{"org.bukkit.material.PoweredRail":["setPowered(boolean)"]},"getData()":{"org.bukkit.material.PoweredRail":["isPowered()","setPowered()","setPowered()"]},"clone()":{"org.bukkit.material.PoweredRail":["clone()","clone()","clone()","clone()"]}}

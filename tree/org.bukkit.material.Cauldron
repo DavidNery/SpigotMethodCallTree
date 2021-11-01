@@ -1,0 +1,1 @@
+{"isEmpty()":{"org.bukkit.material.Cauldron":["toString()"]},"isFull()":{"org.bukkit.material.Cauldron":["toString()"]},"getData()":{"org.bukkit.material.Cauldron":["isFull()","isEmpty()","toString()"]},"clone()":{"org.bukkit.material.Cauldron":["clone()","clone()"]}}

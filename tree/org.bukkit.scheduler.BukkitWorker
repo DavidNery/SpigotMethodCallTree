@@ -1,0 +1,1 @@
+{"getOwner()":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["reload()","waitForAsyncTasksShutdown()"]},"getThread()":{"org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftAsyncTask":["run()","run()","run()"]}}

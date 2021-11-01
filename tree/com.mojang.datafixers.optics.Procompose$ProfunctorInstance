@@ -1,0 +1,1 @@
+{"cap(com.mojang.datafixers.optics.Procompose, java.util.function.Function, java.util.function.Function)":{"com.mojang.datafixers.optics.Procompose$ProfunctorInstance":["lambda$dimap$0(java.util.function.Function, java.util.function.Function, com.mojang.datafixers.kinds.App2)"]}}

@@ -1,0 +1,1 @@
+{"values()":{"net.minecraft.server.v1_16_R1.IOWorker":["<init>()"]},"<init>(java.lang.String, int)":{"net.minecraft.server.v1_16_R1.IOWorker$Priority":["<clinit>()","<clinit>()"]},"ordinal()":{"net.minecraft.server.v1_16_R1.IOWorker":["c()","lambda$close$11()","lambda$a$9()"]}}

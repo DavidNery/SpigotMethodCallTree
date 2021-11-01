@@ -1,0 +1,1 @@
+{"cap(com.mojang.datafixers.functions.Apply, com.mojang.datafixers.functions.Apply)":{"com.mojang.datafixers.functions.PointFreeRule$AppNest":["rewrite(com.mojang.datafixers.types.Type, com.mojang.datafixers.functions.PointFree)"]},"<init>(java.lang.String, int)":{"com.mojang.datafixers.functions.PointFreeRule$AppNest":["<clinit>()"]}}

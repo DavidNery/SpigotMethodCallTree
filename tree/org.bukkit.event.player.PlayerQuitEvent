@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, java.lang.String)":{"net.minecraft.server.v1_16_R1.PlayerList":["disconnect(net.minecraft.server.v1_16_R1.EntityPlayer)"]},"getQuitMessage()":{"net.minecraft.server.v1_16_R1.PlayerList":["disconnect()","disconnect()"]}}

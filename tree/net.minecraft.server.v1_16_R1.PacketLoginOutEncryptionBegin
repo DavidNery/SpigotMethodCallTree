@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.PacketLoginOutListener)":{"net.minecraft.server.v1_16_R1.PacketLoginOutEncryptionBegin":["a(net.minecraft.server.v1_16_R1.PacketListener)"]},"<init>(java.lang.String, java.security.PublicKey, byte[])":{"net.minecraft.server.v1_16_R1.LoginListener":["a(net.minecraft.server.v1_16_R1.PacketLoginInStart)"]}}

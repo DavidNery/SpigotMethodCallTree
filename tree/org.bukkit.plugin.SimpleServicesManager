@@ -1,0 +1,1 @@
+{"<init>()":{"org.bukkit.craftbukkit.v1_16_R1.CraftServer":["<init>()"]},"getRegistrations(java.lang.Class)":{"org.bukkit.plugin.SimpleServicesManager":["getRegistrations(java.lang.Class)"]},"getKnownServices()":{"org.bukkit.plugin.SimpleServicesManager":["getKnownServices()"]}}

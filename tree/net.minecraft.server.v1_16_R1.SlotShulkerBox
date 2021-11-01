@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.IInventory, int, int, int)":{"net.minecraft.server.v1_16_R1.ContainerShulkerBox":["<init>(int, net.minecraft.server.v1_16_R1.PlayerInventory, net.minecraft.server.v1_16_R1.IInventory)"]}}

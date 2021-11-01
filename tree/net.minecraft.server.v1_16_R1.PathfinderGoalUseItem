@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityInsentient, net.minecraft.server.v1_16_R1.ItemStack, net.minecraft.server.v1_16_R1.SoundEffect, java.util.function.Predicate)":{"net.minecraft.server.v1_16_R1.EntityVillagerTrader":["initPathfinder()","initPathfinder()"]}}

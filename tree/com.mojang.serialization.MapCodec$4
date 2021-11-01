@@ -1,0 +1,1 @@
+{"<init>(com.mojang.serialization.MapCodec, java.util.function.UnaryOperator, java.lang.Object)":{"com.mojang.serialization.MapCodec":["withDefault(java.util.function.UnaryOperator, java.lang.Object)"]}}

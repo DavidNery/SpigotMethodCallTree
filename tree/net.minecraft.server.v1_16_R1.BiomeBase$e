@@ -1,0 +1,1 @@
+{"b()":{"net.minecraft.server.v1_16_R1.SpawnerCreature":["lambda$countMobs$2()"],"net.minecraft.server.v1_16_R1.SpawnerCreature$d":["a()","a()"]},"a()":{"net.minecraft.server.v1_16_R1.SpawnerCreature$d":["a()"]},"<init>(double, double)":{"net.minecraft.server.v1_16_R1.BiomeBase":["a(net.minecraft.server.v1_16_R1.EntityTypes, double, double)"]}}

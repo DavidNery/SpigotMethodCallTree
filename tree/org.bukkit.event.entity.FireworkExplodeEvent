@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Firework)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callFireworkExplodeEvent(net.minecraft.server.v1_16_R1.EntityFireworks)"]},"getEntity()":{"org.bukkit.event.entity.FireworkExplodeEvent":["getEntity()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityFireworks":["inactiveTick()","tick()","a()","a()"]}}

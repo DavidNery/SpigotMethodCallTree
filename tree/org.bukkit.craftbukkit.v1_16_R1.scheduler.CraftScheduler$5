@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler, java.lang.Object, org.bukkit.plugin.Plugin)":{"org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler":["cancelTasks(org.bukkit.plugin.Plugin)"]}}

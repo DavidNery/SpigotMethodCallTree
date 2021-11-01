@@ -1,0 +1,1 @@
+{"<init>(java.lang.String, com.mojang.datafixers.types.Type, com.mojang.datafixers.types.Type)":{"com.mojang.datafixers.NamedChoiceFinder":["findType(com.mojang.datafixers.types.Type, com.mojang.datafixers.types.Type, boolean)"]}}

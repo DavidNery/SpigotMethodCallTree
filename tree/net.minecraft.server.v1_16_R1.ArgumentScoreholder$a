@@ -1,0 +1,1 @@
+{"getNames(net.minecraft.server.v1_16_R1.CommandListenerWrapper, java.util.function.Supplier)":{"net.minecraft.server.v1_16_R1.ArgumentScoreholder":["a(com.mojang.brigadier.context.CommandContext, java.lang.String, java.util.function.Supplier)"]}}

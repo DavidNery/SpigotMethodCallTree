@@ -1,0 +1,1 @@
+{"getLines()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]},"<init>(org.bukkit.block.Block, org.bukkit.entity.Player, java.lang.String[])":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a(net.minecraft.server.v1_16_R1.PacketPlayInUpdateSign)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]}}

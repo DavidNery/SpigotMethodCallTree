@@ -1,0 +1,1 @@
+{"getNetworkManager()":{"net.minecraft.server.v1_16_R1.HandshakeListener":["a()","a()","a()","a()","a()","a()","a()","a()"]},"<init>(net.minecraft.server.v1_16_R1.MinecraftServer, net.minecraft.server.v1_16_R1.NetworkManager)":{"net.minecraft.server.v1_16_R1.ServerConnection$1":["initChannel(io.netty.channel.Channel)"]}}

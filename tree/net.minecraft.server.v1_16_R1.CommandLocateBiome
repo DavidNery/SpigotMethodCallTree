@@ -1,0 +1,1 @@
+{"a(com.mojang.brigadier.CommandDispatcher)":{"net.minecraft.server.v1_16_R1.CommandDispatcher":["<init>(net.minecraft.server.v1_16_R1.CommandDispatcher$ServerType)"]},"a(net.minecraft.server.v1_16_R1.CommandListenerWrapper, net.minecraft.server.v1_16_R1.MinecraftKey)":{"net.minecraft.server.v1_16_R1.CommandLocateBiome":["a(com.mojang.brigadier.context.CommandContext)"]}}

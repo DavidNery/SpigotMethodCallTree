@@ -1,0 +1,1 @@
+{"<init>(java.lang.String, int)":{"com.mojang.datafixers.functions.PointFreeRule$LensCompFunc":["<clinit>()"]},"cap(com.mojang.datafixers.functions.ProfunctorTransformer, com.mojang.datafixers.functions.ProfunctorTransformer)":{"com.mojang.datafixers.functions.PointFreeRule$LensCompFunc":["rewrite(com.mojang.datafixers.types.Type, com.mojang.datafixers.functions.PointFree)"]}}

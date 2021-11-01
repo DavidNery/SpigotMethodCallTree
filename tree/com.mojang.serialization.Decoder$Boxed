@@ -1,0 +1,1 @@
+{"decoder()":{"com.mojang.serialization.Decoder":["ofBoxed()"]},"decode(com.mojang.serialization.Dynamic)":{"com.mojang.serialization.Decoder$Boxed$1":["decode(com.mojang.serialization.DynamicOps, java.lang.Object)"]}}

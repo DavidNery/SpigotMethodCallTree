@@ -1,0 +1,1 @@
+{"getEntity()":{"org.bukkit.event.entity.HorseJumpEvent":["getEntity()"]},"<init>(org.bukkit.entity.AbstractHorse, float)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callHorseJumpEvent(net.minecraft.server.v1_16_R1.Entity, float)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityHorseAbstract":["b()"]}}

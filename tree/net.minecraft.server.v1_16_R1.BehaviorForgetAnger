@@ -1,0 +1,1 @@
+{"<init>()":{"net.minecraft.server.v1_16_R1.PiglinAI":["a()"]},"a(net.minecraft.server.v1_16_R1.WorldServer, net.minecraft.server.v1_16_R1.EntityInsentient, long)":{"net.minecraft.server.v1_16_R1.BehaviorForgetAnger":["a(net.minecraft.server.v1_16_R1.WorldServer, net.minecraft.server.v1_16_R1.EntityLiving, long)"]}}

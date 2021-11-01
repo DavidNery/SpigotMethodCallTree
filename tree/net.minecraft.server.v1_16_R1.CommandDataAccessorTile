@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.TileEntity, net.minecraft.server.v1_16_R1.BlockPosition)":{"net.minecraft.server.v1_16_R1.CommandDataAccessorTile$1":["a(com.mojang.brigadier.context.CommandContext)"]},"c()":{"net.minecraft.server.v1_16_R1.CommandDataAccessorTile$1":["a()"]}}

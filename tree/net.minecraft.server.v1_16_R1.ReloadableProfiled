@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.IResourceManager, java.util.List, java.util.concurrent.Executor, java.util.concurrent.Executor, java.util.concurrent.CompletableFuture)":{"net.minecraft.server.v1_16_R1.ResourceManager":["b(java.util.concurrent.Executor, java.util.concurrent.Executor, java.util.List, java.util.concurrent.CompletableFuture)"]}}

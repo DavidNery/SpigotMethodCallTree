@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.types.templates.Named$NamedType)":{"com.mojang.datafixers.types.templates.Named$NamedType":["buildCodec()"]},"encode(com.mojang.datafixers.util.Pair, com.mojang.serialization.DynamicOps, java.lang.Object)":{"com.mojang.datafixers.types.templates.Named$NamedType$1":["encode(java.lang.Object, com.mojang.serialization.DynamicOps, java.lang.Object)"]}}

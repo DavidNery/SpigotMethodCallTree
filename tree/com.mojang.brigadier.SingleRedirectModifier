@@ -1,0 +1,1 @@
+{"apply(com.mojang.brigadier.context.CommandContext)":{"com.mojang.brigadier.builder.ArgumentBuilder":["lambda$redirect$1(com.mojang.brigadier.SingleRedirectModifier, com.mojang.brigadier.context.CommandContext)"]}}

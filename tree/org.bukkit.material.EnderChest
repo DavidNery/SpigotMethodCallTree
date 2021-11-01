@@ -1,0 +1,1 @@
+{"setFacingDirection(org.bukkit.block.BlockFace)":{"org.bukkit.material.EnderChest":["<init>(org.bukkit.block.BlockFace)"]},"<init>()":{"org.bukkit.material.EnderChest":["<init>()"]},"clone()":{"org.bukkit.material.EnderChest":["clone()","clone()","clone()"]}}

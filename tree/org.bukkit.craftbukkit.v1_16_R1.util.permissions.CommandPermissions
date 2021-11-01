@@ -1,0 +1,1 @@
+{"registerPermissions(org.bukkit.permissions.Permission)":{"org.bukkit.craftbukkit.v1_16_R1.util.permissions.CraftDefaultPermissions":["registerCorePermissions()"]}}

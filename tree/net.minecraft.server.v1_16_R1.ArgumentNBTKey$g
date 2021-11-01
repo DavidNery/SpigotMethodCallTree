@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.NBTBase, java.util.List)":{"net.minecraft.server.v1_16_R1.ArgumentNBTKey$g":["a(net.minecraft.server.v1_16_R1.NBTBase, java.util.function.Supplier, java.util.List)"]},"<init>(net.minecraft.server.v1_16_R1.NBTTagCompound)":{"net.minecraft.server.v1_16_R1.ArgumentNBTKey":["a(com.mojang.brigadier.StringReader, boolean)"]}}

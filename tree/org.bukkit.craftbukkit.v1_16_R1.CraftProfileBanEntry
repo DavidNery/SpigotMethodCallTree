@@ -1,0 +1,1 @@
+{"<init>(com.mojang.authlib.GameProfile, net.minecraft.server.v1_16_R1.GameProfileBanEntry, net.minecraft.server.v1_16_R1.GameProfileBanList)":{"org.bukkit.craftbukkit.v1_16_R1.CraftProfileBanList":["getBanEntry(java.lang.String)","addBan(java.lang.String, java.lang.String, java.util.Date, java.lang.String)","getBanEntries()"]}}

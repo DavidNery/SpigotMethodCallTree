@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Vehicle, org.bukkit.entity.LivingEntity, boolean)":{"net.minecraft.server.v1_16_R1.Entity":["removePassenger(net.minecraft.server.v1_16_R1.Entity, boolean)"],"org.bukkit.event.vehicle.VehicleExitEvent":["<init>(org.bukkit.entity.Vehicle, org.bukkit.entity.LivingEntity)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.Entity":["removePassenger()"]}}

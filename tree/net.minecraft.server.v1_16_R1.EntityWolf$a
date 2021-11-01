@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.EntityLlama)":{"net.minecraft.server.v1_16_R1.EntityWolf$a":["a()"]},"<init>(net.minecraft.server.v1_16_R1.EntityWolf, net.minecraft.server.v1_16_R1.EntityWolf, java.lang.Class, float, double, double)":{"net.minecraft.server.v1_16_R1.EntityWolf":["initPathfinder()"]}}

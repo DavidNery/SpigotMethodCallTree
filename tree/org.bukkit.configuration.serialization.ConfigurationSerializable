@@ -1,0 +1,1 @@
+{"serialize()":{"org.bukkit.configuration.file.YamlRepresenter$RepresentConfigurationSerializable":["representData()"],"org.bukkit.util.io.Wrapper":["newWrapper()"]}}

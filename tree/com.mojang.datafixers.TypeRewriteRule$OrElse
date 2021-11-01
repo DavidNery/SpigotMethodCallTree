@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.TypeRewriteRule, java.util.function.Supplier)":{"com.mojang.datafixers.TypeRewriteRule":["orElse(com.mojang.datafixers.TypeRewriteRule, java.util.function.Supplier)"]}}

@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Player, boolean)":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a(net.minecraft.server.v1_16_R1.PacketPlayInAbilities)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]}}

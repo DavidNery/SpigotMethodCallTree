@@ -1,0 +1,1 @@
+{"accept(org.bukkit.Chunk)":{"org.bukkit.World$ChunkLoadCallback":["accept(java.lang.Object)"]},"onLoad(org.bukkit.Chunk)":{"org.bukkit.World$ChunkLoadCallback":["accept(org.bukkit.Chunk)"]}}

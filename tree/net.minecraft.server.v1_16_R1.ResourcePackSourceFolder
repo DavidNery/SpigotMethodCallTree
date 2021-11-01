@@ -1,0 +1,1 @@
+{"a(java.io.File)":{"net.minecraft.server.v1_16_R1.ResourcePackSourceFolder":["a(java.util.function.Consumer, net.minecraft.server.v1_16_R1.ResourcePackLoader$a)"]},"<init>(java.io.File, net.minecraft.server.v1_16_R1.PackSource)":{"net.minecraft.server.v1_16_R1.Main":["main(joptsimple.OptionSet)"]}}

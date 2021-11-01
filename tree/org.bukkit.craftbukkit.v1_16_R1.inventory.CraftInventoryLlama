@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.IInventory)":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftLlama":["getInventory()"]},"getItem(int)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftInventoryLlama":["getDecor()"]},"setItem(int, org.bukkit.inventory.ItemStack)":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftInventoryLlama":["setDecor(org.bukkit.inventory.ItemStack)"]}}

@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.LivingEntity, boolean)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callToggleGlideEvent(net.minecraft.server.v1_16_R1.EntityLiving, boolean)"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntityLiving":["f()","t()"],"net.minecraft.server.v1_16_R1.EntityHuman":["f()","startGliding()","stopGliding()"]}}

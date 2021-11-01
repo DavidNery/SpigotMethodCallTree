@@ -1,0 +1,1 @@
+{"getEntity()":{"org.bukkit.event.entity.SlimeSplitEvent":["getEntity()"]},"<init>(org.bukkit.entity.Slime, int)":{"net.minecraft.server.v1_16_R1.EntitySlime":["die()"]},"getCount()":{"net.minecraft.server.v1_16_R1.EntitySlime":["die()","die()"]},"isCancelled()":{"net.minecraft.server.v1_16_R1.EntitySlime":["die()"]}}

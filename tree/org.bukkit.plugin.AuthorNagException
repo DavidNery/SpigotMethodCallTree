@@ -1,0 +1,1 @@
+{"getMessage()":{"org.bukkit.plugin.SimplePluginManager":["callEvent()"]},"<init>(java.lang.String)":{"org.bukkit.plugin.java.JavaPluginLoader":["createRegisteredListeners(org.bukkit.event.Listener, org.bukkit.plugin.Plugin)"],"org.bukkit.craftbukkit.v1_16_R1.util.Commodore$1$1":["visitFieldInsn(int, java.lang.String, java.lang.String, java.lang.String)"]}}

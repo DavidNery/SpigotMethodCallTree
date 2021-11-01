@@ -1,0 +1,1 @@
+{"getMaterial()":{"org.bukkit.event.entity.EntityChangeBlockEvent":["getTo()"],"org.bukkit.event.block.BlockPhysicsEvent":["getChangedType()"],"org.bukkit.craftbukkit.v1_16_R1.entity.CraftFallingBlock":["getMaterial()"],"org.bukkit.event.block.FluidLevelChangeEvent":["setNewData()","setNewData()"],"org.bukkit.event.block.BlockCanBuildEvent":["getMaterial()"]}}

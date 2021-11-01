@@ -1,0 +1,1 @@
+{"query(long, java.util.function.Consumer)":{"net.minecraft.server.v1_16_R1.SpawnerCreature":["countMobs(int, java.lang.Iterable, net.minecraft.server.v1_16_R1.SpawnerCreature$b, boolean)"]}}

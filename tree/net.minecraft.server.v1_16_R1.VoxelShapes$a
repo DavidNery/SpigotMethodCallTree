@@ -1,0 +1,1 @@
+{"consume(double, double, double, double, double, double)":{"net.minecraft.server.v1_16_R1.VoxelShape":["lambda$b$1(net.minecraft.server.v1_16_R1.VoxelShapes$a, it.unimi.dsi.fastutil.doubles.DoubleList, it.unimi.dsi.fastutil.doubles.DoubleList, it.unimi.dsi.fastutil.doubles.DoubleList, int, int, int, int, int, int)"]}}

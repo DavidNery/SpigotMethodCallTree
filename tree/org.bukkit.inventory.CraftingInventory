@@ -1,0 +1,1 @@
+{"getResult()":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callPreCraftEvent()"]},"getRecipe()":{"org.bukkit.event.inventory.PrepareItemCraftEvent":["getRecipe()"],"net.minecraft.server.v1_16_R1.PlayerConnection":["a()"]}}

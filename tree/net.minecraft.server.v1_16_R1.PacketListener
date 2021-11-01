@@ -1,0 +1,1 @@
+{"a()":{"net.minecraft.server.v1_16_R1.PlayerConnectionUtils":["lambda$ensureMainThread$1()","lambda$ensureMainThread$1()"]},"a(net.minecraft.server.v1_16_R1.IChatBaseComponent)":{"net.minecraft.server.v1_16_R1.NetworkManager":["handleDisconnection()","handleDisconnection()"]}}

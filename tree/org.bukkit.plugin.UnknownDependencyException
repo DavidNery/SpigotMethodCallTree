@@ -1,0 +1,1 @@
+{"<init>(java.lang.String)":{"org.bukkit.plugin.java.JavaPluginLoader":["loadPlugin(java.io.File)"],"org.bukkit.plugin.SimplePluginManager":["loadPlugins(java.io.File)"]}}

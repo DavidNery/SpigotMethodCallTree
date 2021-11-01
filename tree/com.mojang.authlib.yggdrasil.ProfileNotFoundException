@@ -1,0 +1,1 @@
+{"<init>(java.lang.String)":{"com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository":["findProfilesByNames(java.lang.String[], com.mojang.authlib.Agent, com.mojang.authlib.ProfileLookupCallback)"]}}

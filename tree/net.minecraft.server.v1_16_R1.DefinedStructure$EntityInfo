@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.Vec3D, net.minecraft.server.v1_16_R1.BlockPosition, net.minecraft.server.v1_16_R1.NBTTagCompound)":{"net.minecraft.server.v1_16_R1.DefinedStructure":["a(net.minecraft.server.v1_16_R1.World, net.minecraft.server.v1_16_R1.BlockPosition, net.minecraft.server.v1_16_R1.BlockPosition)","b(net.minecraft.server.v1_16_R1.NBTTagCompound)"]}}

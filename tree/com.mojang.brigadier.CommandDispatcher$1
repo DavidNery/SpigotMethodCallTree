@@ -1,0 +1,1 @@
+{"test(com.mojang.brigadier.tree.CommandNode)":{"com.mojang.brigadier.CommandDispatcher$1":["test(java.lang.Object)"]},"<init>(com.mojang.brigadier.CommandDispatcher)":{"com.mojang.brigadier.CommandDispatcher":["<init>(com.mojang.brigadier.tree.RootCommandNode)"]}}

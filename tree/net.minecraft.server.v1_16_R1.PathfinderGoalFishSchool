@@ -1,0 +1,1 @@
+{"a(net.minecraft.server.v1_16_R1.EntityFishSchool)":{"net.minecraft.server.v1_16_R1.PathfinderGoalFishSchool":["<init>(net.minecraft.server.v1_16_R1.EntityFishSchool)","a()"]},"<init>(net.minecraft.server.v1_16_R1.EntityFishSchool)":{"net.minecraft.server.v1_16_R1.EntityFishSchool":["initPathfinder()"]}}

@@ -1,0 +1,1 @@
+{"<init>(com.mojang.datafixers.TypeRewriteRule, com.mojang.datafixers.functions.PointFreeRule, boolean, boolean)":{"com.mojang.datafixers.TypeRewriteRule":["everywhere(com.mojang.datafixers.TypeRewriteRule, com.mojang.datafixers.functions.PointFreeRule, boolean, boolean)"]}}

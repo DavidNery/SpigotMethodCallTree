@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.craftbukkit.v1_16_R1.advancement.CraftAdvancement, net.minecraft.server.v1_16_R1.AdvancementDataPlayer, net.minecraft.server.v1_16_R1.AdvancementProgress)":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftPlayer":["getAdvancementProgress(org.bukkit.advancement.Advancement)"]}}

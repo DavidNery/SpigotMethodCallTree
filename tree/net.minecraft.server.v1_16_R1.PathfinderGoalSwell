@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.EntityCreeper)":{"net.minecraft.server.v1_16_R1.EntityCreeper":["initPathfinder()"]},"a(java.util.EnumSet)":{"net.minecraft.server.v1_16_R1.PathfinderGoalSwell":["<init>(net.minecraft.server.v1_16_R1.EntityCreeper)"]}}

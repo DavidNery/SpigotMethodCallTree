@@ -1,0 +1,1 @@
+{"getInventory()":{"org.bukkit.craftbukkit.v1_16_R1.inventory.CraftInventoryMerchant":["getSelectedRecipeIndex()","getSelectedRecipe()","getInventory()"]},"<init>(net.minecraft.server.v1_16_R1.IMerchant, net.minecraft.server.v1_16_R1.InventoryMerchant)":{"net.minecraft.server.v1_16_R1.ContainerMerchant":["getBukkitView()"]}}

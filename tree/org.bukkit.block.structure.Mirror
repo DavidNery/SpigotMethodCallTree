@@ -1,0 +1,1 @@
+{"valueOf(java.lang.String)":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftStructureBlock":["getMirror()"]},"name()":{"org.bukkit.craftbukkit.v1_16_R1.block.CraftStructureBlock":["setMirror()"]},"<init>(java.lang.String, int)":{"org.bukkit.block.structure.Mirror":["<clinit>()","<clinit>()","<clinit>()"]}}

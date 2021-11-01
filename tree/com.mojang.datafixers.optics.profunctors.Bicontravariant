@@ -1,0 +1,1 @@
+{"cimap(java.util.function.Function, java.util.function.Function)":{"com.mojang.datafixers.optics.profunctors.Bicontravariant":["cimap(java.util.function.Supplier, java.util.function.Function, java.util.function.Function)"]}}

@@ -1,0 +1,1 @@
+{"<init>(java.lang.String, int)":{"com.mojang.datafixers.functions.PointFreeRule$CompAssocLeft":["<clinit>()"]},"swap(com.mojang.datafixers.functions.Comp, com.mojang.datafixers.functions.Comp)":{"com.mojang.datafixers.functions.PointFreeRule$CompAssocLeft":["rewrite(com.mojang.datafixers.types.Type, com.mojang.datafixers.functions.PointFree)"]}}

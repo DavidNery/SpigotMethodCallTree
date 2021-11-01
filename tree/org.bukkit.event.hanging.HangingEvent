@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.entity.Hanging)":{"org.bukkit.event.hanging.HangingPlaceEvent":["<init>(org.bukkit.entity.Hanging, org.bukkit.entity.Player, org.bukkit.block.Block, org.bukkit.block.BlockFace)"],"org.bukkit.event.hanging.HangingBreakEvent":["<init>(org.bukkit.entity.Hanging, org.bukkit.event.hanging.HangingBreakEvent$RemoveCause)"]}}

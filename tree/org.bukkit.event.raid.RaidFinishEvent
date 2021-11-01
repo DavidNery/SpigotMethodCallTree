@@ -1,0 +1,1 @@
+{"<init>(org.bukkit.Raid, org.bukkit.World, java.util.List)":{"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["callRaidFinishEvent(net.minecraft.server.v1_16_R1.Raid, java.util.List)"]}}

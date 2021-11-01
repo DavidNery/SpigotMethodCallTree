@@ -1,0 +1,1 @@
+{"<init>(net.minecraft.server.v1_16_R1.BlockBase$Info)":{"net.minecraft.server.v1_16_R1.Blocks":["<clinit>()"]},"getInventory(net.minecraft.server.v1_16_R1.IBlockData, net.minecraft.server.v1_16_R1.World, net.minecraft.server.v1_16_R1.BlockPosition)":{"org.bukkit.craftbukkit.v1_16_R1.entity.CraftHumanEntity":["openEnchanting(org.bukkit.Location, boolean)"]}}

@@ -1,0 +1,1 @@
+{"<init>(java.lang.String)":{"org.bukkit.plugin.messaging.StandardMessenger":["validatePluginMessage(org.bukkit.plugin.messaging.Messenger, org.bukkit.plugin.Plugin, java.lang.String, byte[])"],"org.bukkit.plugin.messaging.ChannelNotRegisteredException":["<init>()"]}}

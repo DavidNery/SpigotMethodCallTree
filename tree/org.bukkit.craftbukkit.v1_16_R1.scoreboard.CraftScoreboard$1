@@ -1,0 +1,1 @@
+{"apply(net.minecraft.server.v1_16_R1.ScoreboardObjective)":{"org.bukkit.craftbukkit.v1_16_R1.scoreboard.CraftScoreboard$1":["apply(java.lang.Object)"]},"<init>(org.bukkit.craftbukkit.v1_16_R1.scoreboard.CraftScoreboard)":{"org.bukkit.craftbukkit.v1_16_R1.scoreboard.CraftScoreboard":["getObjectives()"]}}

@@ -1,0 +1,1 @@
+{"cap1(com.mojang.datafixers.TypeRewriteRule, com.mojang.datafixers.RewriteResult)":{"com.mojang.datafixers.TypeRewriteRule$Seq":["rewrite(com.mojang.datafixers.types.Type)"]},"<init>(java.util.List)":{"com.mojang.datafixers.TypeRewriteRule":["seq(java.util.List)"]}}

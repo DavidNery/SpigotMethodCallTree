@@ -1,0 +1,1 @@
+{"<init>(java.lang.String, net.minecraft.server.v1_16_R1.MinecraftKey, java.io.InputStream, java.io.InputStream)":{"net.minecraft.server.v1_16_R1.ResourceManagerFallback":["a(net.minecraft.server.v1_16_R1.MinecraftKey)","c(net.minecraft.server.v1_16_R1.MinecraftKey)"]}}

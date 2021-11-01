@@ -1,0 +1,1 @@
+{"getLines()":{"org.bukkit.command.defaults.HelpCommand":["execute()"]},"getTotalPages()":{"org.bukkit.command.defaults.HelpCommand":["execute()","execute()"]},"getPageNumber()":{"org.bukkit.command.defaults.HelpCommand":["execute()"]},"<init>(java.lang.String[], int, int)":{"org.bukkit.util.ChatPaginator":["paginate(java.lang.String, int, int, int)"]}}

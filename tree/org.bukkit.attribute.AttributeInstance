@@ -1,0 +1,1 @@
+{"getValue()":{"org.bukkit.event.entity.EntityDeathEvent":["setReviveHealth()"],"org.bukkit.craftbukkit.v1_16_R1.event.CraftEventFactory":["populateFields()"]}}
